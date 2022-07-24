@@ -1,0 +1,391 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 227,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1599152222,
+            "message": "Heute gab es in Baden-Württemberg weitere 311 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 42.918 an. Davon sind ungefähr 37.494 Personen (+254) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle wird auf 1.864 nach unten korrigiert (-3). Derzeit sind geschätzt 3.560 (+60) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200903_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200903_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 444,
+                    "length": 204
+                }
+            ],
+            "views": 20044,
+            "forwards": 10
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 226,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1599145926,
+            "message": "Das Kultusministerium Baden-Württemberg hat die Schulen über den Unterricht nach den Sommerferien informiert: <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/kultusministerium-informiert-schulen-zum-neuen-schuljahr//?&pk_medium=messenger&pk_campaign=200903_mes&pk_source=mes&pk_keyword=schulbeginn\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/kultusministerium-informiert-schulen-zum-neuen-schuljahr//?&pk_medium=messenger&pk_campaign=200903_mes&pk_source=mes&pk_keyword=schulbeginn</a>.",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 110,
+                    "length": 212
+                }
+            ],
+            "views": 19907,
+            "forwards": 45
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 225,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1599061886,
+            "message": "Heute gab es in Baden-Württemberg weitere 242 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 42.607 an. Davon sind ungefähr 37.240 Personen (+199) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle steigt auf 1.867 (+1). Derzeit sind geschätzt 3.500 (+42) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200902_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200902_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 424,
+                    "length": 204
+                }
+            ],
+            "views": 19738,
+            "forwards": 6
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 224,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598975488,
+            "message": "Heute gab es in Baden-Württemberg weitere 248 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 42.365 an. Davon sind ungefähr 37.041 Personen (+198) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle bleibt bei 1.866. Derzeit sind geschätzt 3.458 (+50) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200901_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200901_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 419,
+                    "length": 204
+                }
+            ],
+            "views": 19958,
+            "forwards": 4
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 223,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598961694,
+            "message": "Das Sozialministerium hat die zweite Änderungsverordnung der Corona-Verordnung Krankenhäuser und Pflegeeinrichtungen notverkündet. Es entfällt lediglich die Befristung auf den 31. August in den Paragrafen 4 und 5.  Zur Verordnung: <a href=\"https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/corona-verordnung-vulnerable-einrichtungen/\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/corona-verordnung-vulnerable-einrichtungen/</a>.",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 231,
+                    "length": 113
+                }
+            ],
+            "views": 19580,
+            "forwards": 6
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 222,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598897485,
+            "message": "Heute gab es in Baden-Württemberg weitere 175 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 42.117 an. Davon sind ungefähr 36.843 Personen (+86) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle bleibt bei 1.866. Derzeit sind geschätzt 3.408 (+89) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200831_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200831_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 418,
+                    "length": 204
+                }
+            ],
+            "views": 19791,
+            "forwards": 5
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 221,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598800285,
+            "message": "Heute gab es in Baden-Württemberg weitere 169 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 41.942 an. Davon sind ungefähr 36.757 Personen (+106) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle bleibt bei 1.866. Derzeit sind geschätzt 3.319 (+63) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200830_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200830_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 419,
+                    "length": 204
+                }
+            ],
+            "views": 20419,
+            "forwards": 9
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 220,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598719884,
+            "message": "Heute gab es in Baden-Württemberg weitere 199 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 41.773 an. Davon sind ungefähr 36.651 Personen (+135) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle ist auf 1.866 gestiegen (+4). Derzeit sind geschätzt 3.256 (+60) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200829_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200829_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 431,
+                    "length": 204
+                }
+            ],
+            "views": 20099,
+            "forwards": 6
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 219,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598627788,
+            "message": "Heute gab es in Baden-Württemberg weitere 327 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 41.574 an. Davon sind ungefähr 36.516 Personen (+135) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle wurde auf 1.862 korrigiert (-2 wegen Meldekorrektur). Derzeit sind geschätzt 3.196 (+194) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200828_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200828_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 456,
+                    "length": 204
+                }
+            ],
+            "views": 20711,
+            "forwards": 9
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 218,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598616092,
+            "message": "Ab morgen gelten angepasste Corona-Verordnungen. Bei den meisten Verordnungen wurde lediglich die Gültigkeit verlängert. Bei der Verordnung zur Einreise, Quarantäne und Testpflicht sowie bei der Corona-Verordnung Messen gibt es weitergehende Änderungen. Hier finden Sie einen Überblick aller aktuellen Änderungen: <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=200828_mes&pk_source=mes&pk_keyword=vo_aenderungen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=200828_mes&pk_source=mes&pk_keyword=vo_aenderungen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 314,
+                    "length": 202
+                }
+            ],
+            "views": 20814,
+            "forwards": 20
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

@@ -1,0 +1,429 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 217,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598551584,
+            "message": "Heute gab es in Baden-Württemberg weitere 283 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 41.247 an. Davon sind ungefähr 36.381 Personen (+141) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle stieg auf 1.864 (+1). Derzeit sind geschätzt 3.002 (+141) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200827_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200827_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 424,
+                    "length": 204
+                }
+            ],
+            "views": 20464,
+            "forwards": 7
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 216,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598515590,
+            "message": "Wo kann man sich auf das Coronavirus SARS-CoV-2 testen lassen? Die Kassenärztliche Vereinigung Baden-Württemberg und die Koordinierungsstelle Telemedizin Baden-Württemberg haben die Teststellen auf einer interaktiven Karte zusammengefasst. Dort finden Sie auch Hinweise unter welchen Voraussetzungen Sie sich wo testen lassen können. <a href=\"http://coronakarte.kvbawue.de/\" target=\"_blank\" rel=\"nofollow\">http://coronakarte.kvbawue.de/</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 334,
+                    "length": 30
+                }
+            ],
+            "views": 20527,
+            "forwards": 48
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 215,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598456488,
+            "message": "Heute gab es in Baden-Württemberg weitere 277 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 40.964 an. Davon sind ungefähr 36.240 Personen (+105) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle stieg auf 1.863 (+1).  Derzeit sind geschätzt wieder 2.861 (+171) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200826_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200826_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 432,
+                    "length": 204
+                }
+            ],
+            "views": 20099,
+            "forwards": 9
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 214,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598370988,
+            "message": "Heute gab es in Baden-Württemberg weitere 327 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 40.687 an. Davon sind ungefähr 36.135 Personen (+111) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle hat das Landesgesundheitsamt Baden-Württemberg auf 1.862 korrigiert (-1 durch Meldungskorrektur). Derzeit sind geschätzt wieder 2.690 (+217) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200825_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200825_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 507,
+                    "length": 204
+                }
+            ],
+            "views": 20064,
+            "forwards": 14
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 213,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598283989,
+            "message": "Heute gab es in Baden-Württemberg weitere 184 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 40.360 an. Davon sind ungefähr 36.024 Personen bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle in Baden-Württemberg bleibt bei 1.863. Derzeit sind geschätzt wieder 2.473 (+114) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200824_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200824_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 441,
+                    "length": 204
+                }
+            ],
+            "views": 20501,
+            "forwards": 7
+        },
+        {
+            "_": "message",
+            "flags": 17408,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 212,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598279792,
+            "message": "„Die vergangenen Monate haben uns viel Kraft gekostet. Sie alle haben mit Umsicht, Disziplin und Verantwortung dafür gesorgt, dass wir in diesem Sommer viele Einschränkungen der Monate davor aufheben konnten.<br />\n<br />\nWir alle haben uns auf die Sommerferien gefreut – und ich verstehe die Sehnsucht nach ein wenig Auszeit von der anstrengenden Zeit, von dieser Pandemie.<br />\n<br />\nAber das Virus macht keine Sommerpause. Es nimmt keine Auszeit. Es nimmt jede Gelegenheit wahr, sich wieder auszubreiten. Genau das passiert gerade.<br />\n<br />\nDas Gute ist: Wir alle können mit wenigen Mitteln dafür sorgen, dass das Virus beherrschbar bleibt. Wir alle können unseren Teil beitragen, dass wir eine zweite große Welle wie im Frühjahr noch verhindern. Wir dürfen nicht verspielen, was wir uns gemeinsam mühsam erarbeitet haben.<br />\n<br />\nDeshalb bitte ich Sie: Bleiben Sie wachsam. Halten sie Abstand, achten Sie auf Hygiene und tragen Sie Ihre Alltagsmaske. Bleiben Sie solidarisch – für uns alle.“<br />\n<br />\nIhr Winfried Kretschmann",
+            "views": 20510,
+            "forwards": 33
+        },
+        {
+            "_": "message",
+            "flags": 17920,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 211,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598279791,
+            "message": "",
+            "media": {
+                "_": "messageMediaPhoto",
+                "flags": 1,
+                "photo": {
+                    "_": "photo",
+                    "flags": 0,
+                    "has_stickers": false,
+                    "id": 5341788840970530542,
+                    "access_hash": 6342994373883010948,
+                    "file_reference": {
+                        "_": "bytes",
+                        "bytes": "AlRmf6cAAADTYtnRTDR6OnJtnAGl7G3fguQooD0="
+                    },
+                    "date": 1598279791,
+                    "sizes": [
+                        {
+                            "_": "photoStrippedSize",
+                            "type": "i",
+                            "bytes": {
+                                "_": "bytes",
+                                "bytes": "ASgorxrxgAA96U5BpTlDn1pGJNZLc2ewqyIqMD7VK0wDZUAcVmyBsk89antdm0rIBkdKuxF+5Yk2yIj/AC5OckfSiobhkATado5opyWokx4mBB68cUu4HpmmxsshZ2xk0pKg+lKyTsO91cSVAELZ5+tRQoSjsTk8KDSyzgqAO9SRYKRAfxNk0xPcivQFZAAOlFF+f3wHoKKYmbEFkkEe3crHOd20ZpLiyE+MSBCO+0UUVN7hYrf2KCcm5z/wD/69TR6ase39/nb/ALP/ANeiii4EculieQsZ9vb7v/16KKKLgQ=="
+                            },
+                            "inflated": {
+                                "_": "bytes",
+                                "bytes": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCAAoACgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCvGvGAAD3pTkGlOUOfWkYk1ktzZ7CrIiowPtUrTANlQBxWbIGyTz1qe12bSsgGR0q7EX7liTbIiP8ALk5yR9KKhuGQBNp2jminJaiTHiYEHrxxS7gemabGyyFnbGTSkqD6UrJOw73VxJUAQtnn61FChKOxOTwoNLLOCoA71JFgpEB/E2TTE9yK9AVkAA6UUX5/fAegopiZsQWSQR7dysc53bRmkuLIT4xIEI77RRRU3uFit/YoJybnP/AP/r1NHpqx7f3+dv8As/8A16KKLgRy6WJ5Cxn29vu//XoooouB/9k="
+                            }
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "m",
+                            "w": 320,
+                            "h": 320,
+                            "size": 30512
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "x",
+                            "w": 800,
+                            "h": 800,
+                            "size": 126660
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "y",
+                            "w": 1080,
+                            "h": 1080,
+                            "size": 97199
+                        }
+                    ],
+                    "dc_id": 2
+                }
+            },
+            "views": 19190,
+            "forwards": 18
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 210,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598256991,
+            "message": "Wenn Sie aus einem Risikogebiet nach Baden-Württemberg einreisen müssen Sie sich auf das Coronavirus testen lassen und sich in Quarantäne begeben. Hier finden Sie alle wichtigen Informationen zu dem Thema: <a href=\"https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-tests-fuer-reiserueckkehrer/?&pk_medium=messenger&pk_campaign=200824_mes&pk_source=mes&pk_keyword=reiserueck\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-tests-fuer-reiserueckkehrer/?&pk_medium=messenger&pk_campaign=200824_mes&pk_source=mes&pk_keyword=reiserueck</a><br />\nInformieren Sie bitte auch Verwandte, Freunde und Bekannte über diese Regelungen.",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 206,
+                    "length": 182
+                }
+            ],
+            "views": 19919,
+            "forwards": 46
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 209,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598201784,
+            "message": "Heute gab es in Baden-Württemberg weitere 142 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 40.176 an. Davon sind ungefähr 35.956 Personen bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle in Baden-Württemberg bleibt bei 1.863. Derzeit sind geschätzt wieder 2.275 (+82) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. Im Stadtkreis Heilbronn ist die 7-Tage-Inzidenz auf 38,8 gestiegen. In Baden-Württemberg liegt sie im Schnitt bei jetzt 13,3. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200823_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200823_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 566,
+                    "length": 204
+                }
+            ],
+            "views": 19499,
+            "forwards": 5
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 208,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1598116284,
+            "message": "Heute gab es in Baden-Württemberg weitere 202 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Zahl der Infizierten in Baden-Württemberg auf mindestens 40.034 an. Davon sind ungefähr 35.896 Personen bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle in Baden-Württemberg steigt auf 1.863 (+1). Derzeit sind geschätzt wieder 2.275 (+126) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200822_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=200822_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 446,
+                    "length": 204
+                }
+            ],
+            "views": 19459,
+            "forwards": 5
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

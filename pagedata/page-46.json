@@ -1,0 +1,391 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 661,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1623230561,
+            "message": "Das Kultusministerium hat die Corona-Verordnung zu Religiösen Veranstaltungen sowie Veranstaltungen bei Todesfällen angepasst. Übersicht der Änderungen auf <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210609_mes&pk_source=mes&pk_keyword=aenderungvo\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210609_mes&pk_source=mes&pk_keyword=aenderungvo</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 156,
+                    "length": 198
+                }
+            ],
+            "views": 57145,
+            "forwards": 24
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 660,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1623167557,
+            "message": "Corona-Bericht für Baden-Württemberg 8. Juni 2021<br />\n<br />\nNeuinfektionen: 671 (gesamt: 496.593)<br />\nVerstorbene: 10.036 (+6)<br />\nGenesene: 476.239 (+785)<br />\nAktuell Infizierte: 10.318 (-120)<br />\n7-Tage-R-Wert: 0,70<br />\n7-Tage-Inzidenz: 27,0<br />\nGesamtbelegung der Intensivkapazitäten: 86,3 %<br />\n<br />\nCorona-Impfungen:<br />\nErstimpfung gesamt: 4.911.952 (+22.669)<br />\nVollständig geimpfte Personen: 2.360.771 (+53.333)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n• LK Alb-Donau-Kreis (30,4)<br />\n• SK Baden-Baden (14,5)<br />\n• LK Böblingen (19,9)<br />\n• LK Bodenseekreis (14,7)<br />\n• LK Breisgau-Hochschwarzwald (16,7)<br />\n• LK Calw (27,6)<br />\n• LK Emmendingen (7,8)<br />\n• LK Esslingen (25,0)<br />\n• SK Freiburg im Breisgau (11,7)<br />\n• LK Göppingen (21,3)<br />\n• SK Heidelberg (12,4)<br />\n• LK Heilbronn (24,4)<br />\n• LK Hohenlohekreis (14,2)<br />\n• LK Karlsruhe (18,2)<br />\n• SK Karlsruhe (16,7)<br />\n• LK Konstanz (18,2)<br />\n• LK Lörrach (21,0)<br />\n• LK Main-Tauber-Kreis (16,6)<br />\n• SK Mannheim (22,2)<br />\n• LK Neckar-Odenwald-Kreis (23,0)<br />\n• LK Ortenaukreis (23,4)<br />\n• LK Ostalbkreis (28,3)<br />\n• LK Rastatt (26,8)<br />\n• LK Ravensburg (33,6)<br />\n• LK Rems-Murr-Kreis (34,6)<br />\n• LK Reutlingen (19,2)<br />\n• LK Rhein-Neckar-Kreis (19,3)<br />\n• LK Schwäbisch Hall (33,5)<br />\n• LK Sigmaringen (26,7)<br />\n• LK Tübingen (24,1)<br />\n• SK Ulm (33,1)<br />\n• LK Waldshut (11,7)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 35 und 50:<br />\n• LK Enzkreis (43,1)<br />\n• LK Freudenstadt (35,5)<br />\n• LK Heidenheim (49,0)<br />\n• SK Heilbronn (45,8)<br />\n• LK Ludwigsburg (35,2)<br />\n• LK Schwarzwald-Baar-Kreis (43,3)<br />\n• SK Stuttgart (35,7)<br />\n• LK Tuttlingen (48,3)<br />\n• LK Zollernalbkreis (38,0)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 50 und 100:<br />\n• LK Biberach (50,7)<br />\n• SK Pforzheim (56,4)<br />\n• LK Rottweil (54,3)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100:<br />\n-<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210608_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210608_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1715,
+                    "length": 203
+                }
+            ],
+            "views": 59517,
+            "forwards": 52
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 659,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1623084756,
+            "message": "Corona-Bericht für Baden-Württemberg 7. Juni 2021<br />\n<br />\nNeuinfektionen: 225 (gesamt: 495.922)<br />\nVerstorbene: 10.030 (+13)<br />\nGenesene: 475.454 (+766)<br />\nAktuell Infizierte: 10.438 (-554)<br />\n7-Tage-R-Wert: 0,75<br />\n7-Tage-Inzidenz: 28,1<br />\nGesamtbelegung der Intensivkapazitäten: 82,7 %<br />\n<br />\nCorona-Impfungen:<br />\nErstimpfung gesamt: 4.889.283 (+42.413)<br />\nVollständig geimpfte Personen: 2.307.438 (+60.393)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n• LK Alb-Donau-Kreis (31,5)<br />\n• SK Baden-Baden (19,9)<br />\n• LK Böblingen (23,9)<br />\n• LK Bodenseekreis (14,3)<br />\n• LK Breisgau-Hochschwarzwald (18,2)<br />\n• LK Calw (27,6)<br />\n• LK Emmendingen (9,6)<br />\n• LK Esslingen (21,5)<br />\n• SK Freiburg im Breisgau (14,7)<br />\n• LK Göppingen (24,8)<br />\n• SK Heidelberg (8,7)<br />\n• LK Heilbronn (30,2)<br />\n• LK Hohenlohekreis (24,0)<br />\n• LK Karlsruhe (20,4)<br />\n• SK Karlsruhe (16,7)<br />\n• LK Konstanz (21,0)<br />\n• LK Lörrach (20,5)<br />\n• LK Ludwigsburg (34,3)<br />\n• LK Main-Tauber-Kreis (27,9)<br />\n• SK Mannheim (23,2)<br />\n• LK Neckar-Odenwald-Kreis (25,8)<br />\n• LK Ortenaukreis (21,1)<br />\n• LK Rastatt (32,4)<br />\n• LK Rems-Murr-Kreis (29,7)<br />\n• LK Reutlingen (22,6)<br />\n• LK Rhein-Neckar-Kreis (20,6)<br />\n• LK Schwäbisch Hall (34,6)<br />\n• LK Sigmaringen (27,5)<br />\n• SK Stuttgart (33,2)<br />\n• LK Tübingen (23,2)<br />\n• SK Ulm (33,1)<br />\n• LK Waldshut (19,9)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 35 und 50:<br />\n• LK Biberach (49,2)<br />\n• LK Enzkreis (39,1)<br />\n• LK Freudenstadt (43,1)<br />\n• SK Heilbronn (48,2)<br />\n• LK Ostalbkreis (35,3)<br />\n• LK Ravensburg (36,1)<br />\n• LK Rottweil (47,2)<br />\n• LK Schwarzwald-Baar-Kreis (48,0)<br />\n• LK Tuttlingen (49,0)<br />\n• LK Zollernalbkreis (39,1)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 50 und 100:<br />\n• LK Heidenheim (54,2)<br />\n• SK Pforzheim (55,6)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100:<br />\n-<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210607_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210607_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1715,
+                    "length": 203
+                }
+            ],
+            "views": 60373,
+            "forwards": 47
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 658,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1623051161,
+            "message": "Das Kultusministerium hat die Corona-Verordnung Sport angepasst. Die Änderungen gelten ab 7. Juni 2021. Weitere Informationen auf: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210604_mes&pk_source=mes&pk_keyword=coronavo\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210604_mes&pk_source=mes&pk_keyword=coronavo</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 131,
+                    "length": 195
+                }
+            ],
+            "views": 58101,
+            "forwards": 41
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 657,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1623051160,
+            "message": "Das Kultusministerium hat die Corona-Verordnung Musik-, Kunst- und Jugendkunstschulen angepasst. Die Änderungen gelten ab 7. Juni 2021. Weitere Informationen auf: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210604_mes&pk_source=mes&pk_keyword=coronavo\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210604_mes&pk_source=mes&pk_keyword=coronavo</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 163,
+                    "length": 195
+                }
+            ],
+            "views": 57538,
+            "forwards": 15
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 656,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1622999552,
+            "message": "Corona-Bericht für Baden-Württemberg 6. Juni 2021<br />\n<br />\nNeuinfektionen: 118 (gesamt: 495.697)<br />\nVerstorbene: 10.017 (+0)<br />\nGenesene: 474.688 (+935)<br />\nAktuell Infizierte: 10.992 (-817)<br />\n7-Tage-R-Wert: 0,79<br />\n7-Tage-Inzidenz: 29,4<br />\nGesamtbelegung der Intensivkapazitäten: 83 %<br />\n<br />\nCorona-Impfungen:<br />\nErstimpfung gesamt: 4.846.870 (+19.334)<br />\nVollständig geimpfte Personen:  2.247.045 (+32.628)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n• LK Alb-Donau-Kreis (33,0)<br />\n• SK Baden-Baden (19,9)<br />\n• LK Böblingen (28,5)<br />\n• LK Bodenseekreis (14,3)<br />\n• LK Breisgau-Hochschwarzwald (21,6)<br />\n• LK Calw (25,1)<br />\n• LK Emmendingen (12,6)<br />\n• LK Esslingen (24,1)<br />\n• SK Freiburg im Breisgau (15,6)<br />\n• LK Göppingen (27,9)<br />\n• SK Heidelberg (10,5)<br />\n• LK Heilbronn (32,2)<br />\n• LK Hohenlohekreis (24,9)<br />\n• LK Karlsruhe (21,8)<br />\n• SK Karlsruhe (17,0)<br />\n• LK Konstanz (19,2)<br />\n• LK Lörrach (23,2)<br />\n• LK Main-Tauber-Kreis (28,7)<br />\n• SK Mannheim (21,6)<br />\n• LK Neckar-Odenwald-Kreis (28,5)<br />\n• LK Ortenaukreis (20,0)<br />\n• LK Rastatt (33,3)<br />\n• LK Rems-Murr-Kreis (34,4)<br />\n• LK Reutlingen (22,6)<br />\n• LK Rhein-Neckar-Kreis (19,9)<br />\n• LK Schwäbisch Hall (33,5)<br />\n• LK Sigmaringen (27,5)<br />\n• LK Tübingen (24,9)<br />\n• LK Waldshut (15,8)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 35 und 50:<br />\n• LK Biberach (44,2)<br />\n• LK Enzkreis (47,6)<br />\n• LK Freudenstadt (43,1)<br />\n• SK Heilbronn (49,8)<br />\n• LK Ludwigsburg (39,2)<br />\n• LK Ostalbkreis (37,6)<br />\n• SK Pforzheim (45,3)<br />\n• LK Ravensburg (35,7)<br />\n• LK Schwarzwald-Baar-Kreis (44,2)<br />\n• SK Stuttgart (35,2)<br />\n• LK Tuttlingen (49,0)<br />\n• SK Ulm (40,2)<br />\n• LK Zollernalbkreis (42,8)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 50 und 100:<br />\n<br />\n• LK Heidenheim (57,2)<br />\n• LK Rottweil (51,5)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100:<br />\n-<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210606_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210606_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1716,
+                    "length": 203
+                }
+            ],
+            "views": 59690,
+            "forwards": 51
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 655,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1622908952,
+            "message": "Corona-Bericht für Baden-Württemberg 5. Juni 2021<br />\n<br />\nNeuinfektionen: 423 (gesamt: 495.579)<br />\nVerstorbene: 10.017 (+3)<br />\nGenesene: 473.753 (+1.323)<br />\nAktuell Infizierte: 11.809 (-903)<br />\n7-Tage-R-Wert: 0,85<br />\n7-Tage-Inzidenz: 29,6<br />\nGesamtbelegung der Intensivkapazitäten: 84 %<br />\n<br />\nCorona-Impfungen:<br />\nErstimpfung gesamt: 4.827.536 (+16.281)<br />\nVollständig geimpfte Personen: 2.214.417 (+42.208)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n• LK LK Alb-Donau-Kreis (31,5)<br />\n• SK Baden-Baden (34,4)<br />\n• LK Böblingen (29,3)<br />\n• LK Bodenseekreis (13,3)<br />\n• LK Breisgau-Hochschwarzwald (22,0)<br />\n• LK Calw (25,1)<br />\n• LK Emmendingen (13,8)<br />\n• LK Esslingen (23,2)<br />\n• SK Freiburg im Breisgau (17,3)<br />\n• LK Göppingen (22,1)<br />\n• SK Heidelberg (9,3)<br />\n• LK Hohenlohekreis (25,7)<br />\n• LK Karlsruhe (21,1)<br />\n• SK Karlsruhe (17,3)<br />\n• LK Konstanz (18,5)<br />\n• LK Lörrach (24,9)<br />\n• LK Main-Tauber-Kreis (34,0)<br />\n• SK Mannheim (23,2)<br />\n• LK Neckar-Odenwald-Kreis (30,6)<br />\n• LK Ortenaukreis (18,3)<br />\n• LK Ravensburg (30,1)<br />\n• LK Rems-Murr-Kreis (33,7)<br />\n• LK Reutlingen (22,6)<br />\n• LK Rhein-Neckar-Kreis (18,8)<br />\n• LK Schwäbisch Hall (33,0)<br />\n• LK Sigmaringen (28,3)<br />\n• SK Stuttgart (34,3)<br />\n• LK Tübingen (27.1)<br />\n• LK Waldshut (20,5)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 35 und 50:<br />\n• LK Biberach (39,7)<br />\n• LK Enzkreis (41,6)<br />\n• LK Freudenstadt (41,4)<br />\n• LK Heilbronn (35,1)<br />\n• SK Heilbronn (43,4)<br />\n• LK Ludwigsburg (40,2)<br />\n• LK Ostalbkreis (42,0)<br />\n• LK Rastatt (40,2)<br />\n• LK Rottweil (44,3)<br />\n• LK Schwarzwald-Baar-Kreis (48,0)<br />\n• SK Ulm (40,2)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 50 und 100:<br />\n• LK Heidenheim (51,2)<br />\n• SK Pforzheim (54,0)<br />\n• LK Tuttlingen (56,1)<br />\n• LK Zollernalbkreis (50,2)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100:<br />\n-<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210605_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210605_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1718,
+                    "length": 203
+                }
+            ],
+            "views": 60778,
+            "forwards": 53
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 654,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1622828847,
+            "message": "Das Kultusministerium hat die Verordnungen zum Schulbetrieb sowie dem Betrieb von Kindertageseinrichtungen und Kindertagespflegestellen unter Pandemiebedingungen angepasst. Weitere Informationen: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210604_mes&pk_source=mes&pk_keyword=coronavo\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210604_mes&pk_source=mes&pk_keyword=coronavo</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 196,
+                    "length": 195
+                }
+            ],
+            "views": 59370,
+            "forwards": 45
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 653,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1622828252,
+            "message": "Corona-Bericht für Baden-Württemberg 4. Juni 2021<br />\n<br />\nNeuinfektionen: 259 (gesamt: 495.156)<br />\nVerstorbene: 10.014 (+6)<br />\nGenesene: 472.430 (+1.507)<br />\nAktuell Infizierte: 12.712 (-1.254)<br />\n7-Tage-R-Wert: 0,85<br />\n7-Tage-Inzidenz: 31,5<br />\nGesamtbelegung der Intensivkapazitäten: 84 %<br />\n<br />\nCorona-Impfungen:<br />\nErstimpfung gesamt: 4.811.255 (+66.686)<br />\nVollständig geimpfte Personen: 2.172.209 (+82.746)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n• LK Böblingen (29,8)<br />\n• LK Bodenseekreis (13,8)<br />\n• LK Breisgau-Hochschwarzwald (21,2)<br />\n• LK Calw (23,2)<br />\n• LK Emmendingen (14,4)<br />\n• LK Esslingen (26,4)<br />\n• SK Freiburg im Breisgau (17,7)<br />\n• LK Göppingen (29,1)<br />\n• SK Heidelberg (9,9)<br />\n• LK Heilbronn (34,5)<br />\n• LK Hohenlohekreis (30,2)<br />\n• LK Karlsruhe (19,5)<br />\n• SK Karlsruhe (19,9)<br />\n• LK Konstanz (25,5)<br />\n• LK Main-Tauber-Kreis (30,2)<br />\n• SK Mannheim (24,1)<br />\n• LK Ortenaukreis (18,3)<br />\n• LK Rems-Murr-Kreis (30,2)<br />\n• LK Reutlingen (23,0)<br />\n• LK Rhein-Neckar-Kreis (19,7)<br />\n• LK Tübingen (29,7)<br />\n• LK Waldshut (24,0)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 35 und 50:<br />\n• LK Alb-Donau-Kreis (36,5)<br />\n• LK Biberach (38,8)<br />\n• LK Enzkreis (36,1)<br />\n• LK Heidenheim (45,9)<br />\n• LK Lörrach (35,4)<br />\n• LK Ludwigsburg (40,2)<br />\n• LK Neckar-Odenwald-Kreis (36,2)<br />\n• LK Ostalbkreis (45,5)<br />\n• LK Rastatt (41,5)<br />\n• LK Ravensburg (37,8)<br />\n• LK Rottweil (40,7)<br />\n• LK Schwäbisch Hall (37,6)<br />\n• LK Sigmaringen (35,9)<br />\n• SK Stuttgart (35,4)<br />\n• SK Ulm (39,4)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 50 und 100:<br />\n•  SK Baden-Baden (54,4)<br />\n• LK Freudenstadt (50,7)<br />\n• SK Heilbronn (52,9)<br />\n• SK Pforzheim (57,2)<br />\n• LK Schwarzwald-Baar-Kreis (52,2)<br />\n• LK Tuttlingen (70,3)<br />\n• LK Zollernalbkreis (54,4)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100 bis 150:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 150 bis 165:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz über 165:<br />\n-<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210604_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210604_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1839,
+                    "length": 203
+                }
+            ],
+            "views": 60458,
+            "forwards": 58
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 652,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1622738551,
+            "message": "Corona-Bericht für Baden-Württemberg 3. Juni 2021<br />\n<br />\nNeuinfektionen: 576 (gesamt: 494.897)<br />\nVerstorbene: 10.008 (+5)<br />\nGenesene: 470.923 (+1.471)<br />\nAktuell Infizierte: 13.966 (-1.170)<br />\n7-Tage-R-Wert: 0,78<br />\n7-Tage-Inzidenz: 37,0<br />\nGesamtbelegung der Intensivkapazitäten: 85,9 %<br />\n<br />\nCorona-Impfungen:<br />\nErstimpfung gesamt: 4.744.569 (+12.968)<br />\nVollständig geimpfte Personen: 2.089.463 (+39.992)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n• LK LK Bodenseekreis (18,9)<br />\n• LK Breisgau-Hochschwarzwald (27,7)<br />\n• LK Calw (20,7)<br />\n• LK Emmendingen (16,8)<br />\n• LK Esslingen (29,7)<br />\n• SK Freiburg im Breisgau (27,2)<br />\n• SK Heidelberg (11,1)<br />\n• LK Karlsruhe (25,6)<br />\n• SK Karlsruhe (20,8)<br />\n• LK Konstanz (27,9)<br />\n• LK Main-Tauber-Kreis (28,7)<br />\n• SK Mannheim (27,0)<br />\n• LK Ortenaukreis (21,6)<br />\n• LK Reutlingen (25,8)<br />\n• LK Rhein-Neckar-Kreis (20,8)<br />\n• LK Tübingen (35,0)<br />\n• LK Waldshut (24,0)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 35 und 50:<br />\n• LK Alb-Donau-Kreis (44,7)<br />\n• LK Biberach (48,7)<br />\n• LK Böblingen (35,1)<br />\n• LK Enzkreis (40,6)<br />\n• LK Göppingen (35,3)<br />\n• LK Heilbronn (38,9)<br />\n• LK Hohenlohekreis (47,9)<br />\n• LK Lörrach (41,1)<br />\n• LK Ludwigsburg (49,1)<br />\n• LK Neckar-Odenwald-Kreis (37,6)<br />\n• LK Ostalbkreis (49,4)<br />\n• LK Ravensburg (43,8)<br />\n• LK Rems-Murr-Kreis (40,3)<br />\n• LK Rottweil (44,3)<br />\n• LK Schwäbisch Hall (45,2)<br />\n• LK Sigmaringen (41,3)<br />\n• SK Stuttgart (37,4)<br />\n• SK Ulm (43,4)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz zwischen 50 und 100:<br />\n• SK Baden-Baden (74,3)<br />\n• LK Freudenstadt (70,2)<br />\n• LK Heidenheim (52,7)<br />\n• SK Heilbronn (62,4)<br />\n• SK Pforzheim (61,1)<br />\n• LK Rastatt (52,3)<br />\n• LK Schwarzwald-Baar-Kreis (68,7)<br />\n• LK Tuttlingen (85,2)<br />\n• LK Zollernalbkreis (67,1)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100 bis 150:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 150 bis 165:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz über 165:<br />\n-<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210603_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210603_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1844,
+                    "length": 203
+                }
+            ],
+            "views": 62693,
+            "forwards": 55
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

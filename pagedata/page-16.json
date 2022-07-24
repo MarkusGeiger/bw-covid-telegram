@@ -1,0 +1,391 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 961,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1644254553,
+            "message": "Corona-Bericht für Baden-Württemberg 7. Februar 2022<br />\n<br />\nAktuelle Stufe: Alarmstufe I<br />\n<br />\nNeuinfektionen: 19.591 (gesamt: 1.555.709)<br />\nVerstorbene: 13.788 (+14)<br />\nGenesene: 1.093.076 (+4.395)<br />\nAktuell Infizierte: 448.845 (+39.864)<br />\n<br />\n7-Tage-Inzidenz gesamt: 1.515,3 (-8,5)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 7,2 (+0,6)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 277 (-5)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 12,5 % (-0,3)<br />\n<br />\n7-Tage-R-Wert: 1,06<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 73,5 % (+0,1)<br />\nImpfquote grundimmunisiert: 72,8 % (+0,2)<br />\nImpfquote Auffrischimpfungen: 54,0 % (+0,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 700:<br />\n• SK Stuttgart (677,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 800 und 900:<br />\n• LK Bodenseekreis (802,7)<br />\n• SK Heidelberg (859,3)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.000 und 1.100:<br />\n• SK Mannheim (1.065,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.100 und 1.200:<br />\n• LK Ravensburg (1.186,1)<br />\n• LK Rhein-Neckar-Kreis (1.103,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.200 und 1.300:<br />\n• LK Enzkreis (1.274,1)<br />\n• LK Ludwigsburg (1.292,4)<br />\n• LK Neckar-Odenwald-Kreis (1.244,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.300 und 1.400:<br />\n• LK Rottweil (1.359,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.400 und 1.500:<br />\n• LK Böblingen (1.476,5)<br />\n• SK Karlsruhe (1.401,9)<br />\n• LK Rems-Murr-Kreis (1.414,0)<br />\n• LK Reutlingen (1.411,5)<br />\n• LK Waldshut (1.470,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.500 und 1.600:<br />\n• SK Baden-Baden (1.516,7)<br />\n• LK Calw (1.592,9)<br />\n• SK Freiburg im Breisgau (1.586,6)<br />\n• LK Konstanz (1.561,7)<br />\n• SK Pforzheim (1.543,5)<br />\n• LK Sigmaringen (1.562,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.600 und 1.700:<br />\n• LK Breisgau-Hochschwarzwald (1.683,1)<br />\n• LK Esslingen (1.636,0)<br />\n• LK Göppingen (1.657,0)<br />\n• SK Heilbronn (1.625,8)<br />\n• LK Hohenlohekreis (1.606,9)<br />\n• LK Karlsruhe (1.612,6)<br />\n• LK Main-Tauber-Kreis (1.663,4)<br />\n• LK Ostalbkreis (1.692,0)<br />\n• LK Rastatt (1.692,9)<br />\n• LK Tübingen (1.639,6)<br />\n• LK Tuttlingen (1.619,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.800 und 1.900:<br />\n• LK Biberach (1.828,4)<br />\n• LK Freudenstadt (1.816,4)<br />\n• LK Heilbronn (1.880,7)<br />\n• LK Ortenaukreis (1.861,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.900 und 2.000:<br />\n• LK Emmendingen (1.938,1)<br />\n• LK Lörrach (1.930,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 2.000 und 2.100:<br />\n• LK Alb-Donau-Kreis (2.055,5)<br />\n• LK Schwäbisch Hall (2.054,5)<br />\n• LK Zollernalbkreis (2.067,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 2.100 und 2.200:<br />\n• LK Heidenheim (2.179,0)<br />\n• LK Schwarzwald-Baar-Kreis (2.119,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 2.300:<br />\n• SK Ulm (2.359,9)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 2847,
+                    "length": 19
+                }
+            ],
+            "views": 86540,
+            "forwards": 33
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 960,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1644234763,
+            "message": "Ab dem 8. Februar 2022 können grundsätzlich auch Apotheken in Baden-Württemberg gegen Corona impfen. Sie ergänzen damit das breite Impfangebot im Land. Ob Ihre Apotheke Impfungen vornimmt, erfragen Sie bitte direkt vor Ort. <a href=\"https://t1p.de/ohby\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/ohby</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 224,
+                    "length": 19
+                }
+            ],
+            "views": 84580,
+            "forwards": 76
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 959,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1643996852,
+            "message": "Corona-Bericht für Baden-Württemberg 4. Februar 2022<br />\n<br />\nAktuelle Stufe: Alarmstufe I<br />\n<br />\nNeuinfektionen: 30.887 (gesamt: 1.497.590)<br />\nVerstorbene: 13.757 (+11)<br />\nGenesene: 1.074.852 (+7.548)<br />\nAktuell Infizierte: 408.981 (+23.328)<br />\n<br />\n7-Tage-Inzidenz gesamt: 1.414,5 (+50,9)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 6,7 (+0,2)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 280 (+8)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 12,7 % (+0,5)<br />\n<br />\n7-Tage-R-Wert: 1,06<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 73,4 % (+0,0)<br />\nImpfquote grundimmunisiert: 72,6 % (+0,0)<br />\nImpfquote Auffrischimpfungen: 53,6 % (+0,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 700:<br />\n• SK Stuttgart (608,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 800 und 900:<br />\n• LK Bodenseekreis (857,7)<br />\n• SK Heidelberg (805,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 900 und 1.000:<br />\n• SK Mannheim (938,3)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.000 und 1.100:<br />\n• LK Ludwigsburg (1.053,1)<br />\n• LK Rhein-Neckar-Kreis (1.050,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.100 und 1.200:<br />\n• LK Konstanz (1.103,6)<br />\n• LK Neckar-Odenwald-Kreis (1.160,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.200 und 1.300:<br />\n• LK Enzkreis (1.208,0)<br />\n• LK Ostalbkreis (1.250,1)<br />\n• LK Ravensburg (1.261,0)<br />\n• LK Reutlingen (1.227,5)<br />\n• LK Rottweil (1.270,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.300 und 1.400:<br />\n• LK Hohenlohekreis (1.355,0)<br />\n• SK Karlsruhe (1.320,9)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.400 und 1.500:<br />\n• LK Calw (1.498,0)<br />\n• LK Esslingen (1.477,8)<br />\n• SK Heilbronn (1.436,8)<br />\n• SK Pforzheim (1.472,8)<br />\n• LK Rems-Murr-Kreis (1.434,9)<br />\n• LK Sigmaringen (1.470,8)<br />\n• LK Waldshut (1.465,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.500 und 1.600:<br />\n• SK Baden-Baden (1.511,3)<br />\n• LK Freudenstadt (1.596,8)<br />\n• LK Karlsruhe (1.527,6)<br />\n• LK Main-Tauber-Kreis (1.580,4)<br />\n• LK Ortenaukreis (1.512,8)<br />\n• LK Tübingen (1.533,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.600 und 1.700:<br />\n• LK Biberach (1.616,3)<br />\n• SK Freiburg im Breisgau (1.633,3)<br />\n• LK Göppingen (1.664,7)<br />\n• LK Tuttlingen (1.644,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.700 und 1.800:<br />\n• LK Böblingen (1.734,3)<br />\n• LK Breisgau-Hochschwarzwald (1.716,3)<br />\n• LK Heilbronn (1.768,7)<br />\n• LK Rastatt (1.727,3)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.800 und 1.900:<br />\n• LK Alb-Donau-Kreis (1.931,3)<br />\n• LK Lörrach (1.836,2)<br />\n• LK Schwäbisch Hall (1.873,5)<br />\n• LK Zollernalbkreis (1.825,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.900 und 2.000:<br />\n• LK Emmendingen (1.952,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 2.000 und 2.100:<br />\n• LK Heidenheim (2.002,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 2.100 und 2.200:<br />\n• LK Schwarzwald-Baar-Kreis (2.158,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 2.200:<br />\n• SK Ulm (2.260,2)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 2994,
+                    "length": 19
+                }
+            ],
+            "views": 100799,
+            "forwards": 49
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 958,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1643909554,
+            "message": "Corona-Bericht für Baden-Württemberg 3. Februar 2022<br />\n<br />\nAktuelle Stufe: Alarmstufe I<br />\n<br />\nNeuinfektionen: 34.396 (gesamt: 1.466.703)<br />\nVerstorbene: 13.746 (+28)<br />\nGenesene: 1.067.304 (+9.307)<br />\nAktuell Infizierte: 385.653 (+25.061)<br />\n<br />\n7-Tage-Inzidenz gesamt: 1.363,6 (+79,1)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 6,5 (+0,5)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 272 (+4)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 12,2 % (+0,2)<br />\n<br />\n7-Tage-R-Wert: 1,01<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 73,4 % (+0,0)<br />\nImpfquote grundimmunisiert: 72,6 % (+0,1)<br />\nImpfquote Auffrischimpfungen: 53,4 % (+0,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 700:<br />\n• SK Stuttgart (612,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 700 und 800:<br />\n• SK Heidelberg (722,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 800 und 900:<br />\n• SK Mannheim (896,9)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 900 und 1.000:<br />\n• LK Ludwigsburg (923,2)<br />\n• LK Rhein-Neckar-Kreis (984,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.000 und 1.100:<br />\n• LK Bodenseekreis (1.001,8)<br />\n• LK Ostalbkreis (1.086,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.100 und 1.200:<br />\n• LK Enzkreis (1.142,9)<br />\n• LK Neckar-Odenwald-Kreis (1.104,3)<br />\n• LK Reutlingen (1.180,5)<br />\n• LK Rottweil (1.170,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.200 und 1.300:<br />\n• SK Karlsruhe (1.259,6)<br />\n• LK Konstanz (1.258,4)<br />\n• LK Ravensburg (1.221,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.300 und 1.400:<br />\n• LK Esslingen (1.333,9)<br />\n• SK Heilbronn (1.315,1)<br />\n• LK Hohenlohekreis (1.384,3)<br />\n• LK Waldshut (1.343,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.400 und 1.500:<br />\n• SK Baden-Baden (1.433,7)<br />\n• LK Freudenstadt (1.469,2)<br />\n• LK Karlsruhe (1.432,7)<br />\n• LK Main-Tauber-Kreis (1.469,7)<br />\n• LK Ortenaukreis (1.420,5)<br />\n• SK Pforzheim (1.421,2)<br />\n• LK Rems-Murr-Kreis (1.460,4)<br />\n• LK Sigmaringen (1.402,9)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.500 und 1.600:<br />\n• LK Biberach (1.599,0)<br />\n• LK Calw (1.520,5)<br />\n• LK Tübingen (1.572,2)<br />\n• LK Tuttlingen (1.583,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.600 und 1.700:<br />\n• LK Böblingen (1.694,6)<br />\n• SK Freiburg im Breisgau (1.664,1)<br />\n• LK Göppingen (1.601,7)<br />\n• LK Heilbronn (1.695,3)<br />\n• LK Rastatt (1.653,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.700 und 1.800:<br />\n• LK Breisgau-Hochschwarzwald (1.734,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.800 und 1.900:<br />\n• LK Alb-Donau-Kreis (1.872,3)<br />\n• LK Emmendingen (1.884,2)<br />\n• LK Lörrach (1.803,4)<br />\n• LK Schwäbisch Hall (1.882,6)<br />\n• LK Schwarzwald-Baar-Kreis (1.880,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.900 und 2.000:<br />\n• LK Heidenheim (1.972,7)<br />\n• LK Zollernalbkreis (1.919,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 2.100:<br />\n• SK Ulm (2.155,0)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 2913,
+                    "length": 19
+                }
+            ],
+            "views": 96065,
+            "forwards": 29
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 957,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1643823153,
+            "message": "Corona-Bericht für Baden-Württemberg 2. Februar 2022<br />\n<br />\nAktuelle Stufe: Alarmstufe I<br />\n<br />\nNeuinfektionen: 32.131 (gesamt: 1.432.307)<br />\nVerstorbene: 13.718 (+22)<br />\nGenesene: 1.057.997 (+9.728)<br />\nAktuell Infizierte: 360.592 (+22.381)<br />\n<br />\n7-Tage-Inzidenz gesamt: 1.284,5 (+69,9)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 6,0 (+0,6)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 268 (-3)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 12,0 % (-0,2)<br />\n<br />\n7-Tage-R-Wert: 0,98<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 73,4 % (+0,1)<br />\nImpfquote grundimmunisiert: 72,5 % (+0,1)<br />\nImpfquote Auffrischimpfungen: 53,2 % (+0,3)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 700:<br />\n• SK Stuttgart (626,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 700 und 800:<br />\n• SK Heidelberg (721,3)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 800 und 900:<br />\n• LK Ludwigsburg (826,1)<br />\n• SK Mannheim (876,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 900 und 1.000:<br />\n• LK Bodenseekreis (988,1)<br />\n• LK Ostalbkreis (987,6)<br />\n• LK Rhein-Neckar-Kreis (934,3)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.000 und 1.100:<br />\n• LK Neckar-Odenwald-Kreis (1.075,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.100 und 1.200:<br />\n• LK Enzkreis (1.100,9)<br />\n• SK Karlsruhe (1.136,1)<br />\n• LK Konstanz (1.194,2)<br />\n• LK Ravensburg (1.183,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.200 und 1.300:<br />\n• LK Esslingen (1.298,5)<br />\n• LK Karlsruhe (1.264,0)<br />\n• LK Reutlingen (1.243,5)<br />\n• LK Rottweil (1.281,3)<br />\n• LK Sigmaringen (1.276,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.300 und 1.400:<br />\n• LK Biberach (1.353,8)<br />\n• LK Freudenstadt (1.377,1)<br />\n• SK Heilbronn (1.307,9)<br />\n• LK Hohenlohekreis (1.374,5)<br />\n• LK Ortenaukreis (1.391,9)<br />\n• SK Pforzheim (1.368,1)<br />\n• LK Waldshut (1.308,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.400 und 1.500:<br />\n• SK Baden-Baden (1.431,9)<br />\n• LK Calw (1.429,2)<br />\n• LK Göppingen (1.467,3)<br />\n• LK Main-Tauber-Kreis (1.483,2)<br />\n• LK Rems-Murr-Kreis (1.414,7)<br />\n• LK Tübingen (1.476,8)<br />\n• LK Tuttlingen (1.491,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.500 und 1.600:<br />\n• LK Böblingen (1.550,8)<br />\n• LK Breisgau-Hochschwarzwald (1.569,8)<br />\n• LK Heilbronn (1.598,0)<br />\n• LK Schwarzwald-Baar-Kreis (1.503,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.600 und 1.700:<br />\n• SK Freiburg im Breisgau (1.609,5)<br />\n• LK Rastatt (1.617,5)<br />\n• LK Schwäbisch Hall (1.632,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.700 und 1.800:<br />\n• LK Alb-Donau-Kreis (1.722,0)<br />\n• LK Emmendingen (1.794,3)<br />\n• LK Heidenheim (1.771,7)<br />\n• LK Lörrach (1.714,3)<br />\n• LK Zollernalbkreis (1.731,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 2.000:<br />\n• SK Ulm (2.037,9)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 2759,
+                    "length": 19
+                }
+            ],
+            "views": 88879,
+            "forwards": 41
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 956,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1643816857,
+            "message": "Das Sozialministerium hat die Corona-Verordnung für Angebote Kinder- und Jugendarbeit sowie Jugendsozialarbeit notverkündet. Alle Änderungen finden Sie hier: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=220202_mes&pk_source=mes&pk_keyword=aenderungen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=220202_mes&pk_source=mes&pk_keyword=aenderungen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 158,
+                    "length": 198
+                }
+            ],
+            "views": 84150,
+            "forwards": 16
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 955,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1643736753,
+            "message": "Corona-Bericht für Baden-Württemberg 1. Februar 2022<br />\n<br />\nAktuelle Stufe: Alarmstufe I<br />\n<br />\nNeuinfektionen: 26.160 (gesamt: 1.400.176)<br />\nVerstorbene: 13.696 (+27)<br />\nGenesene: 1.048.269 (+5.512)<br />\nAktuell Infizierte: 338.211 (+20.621)<br />\n<br />\n7-Tage-Inzidenz gesamt: 1.214,6 (+23,3)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 5,4 (+0,6)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 271 (-3)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 12,2 % (-0,2)<br />\n<br />\n7-Tage-R-Wert: 1,14<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 73,3 % (+0,0)<br />\nImpfquote grundimmunisiert: 72,4 % (+0,0)<br />\nImpfquote Auffrischimpfungen: 52,9 % (+0,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 700:<br />\n• SK Stuttgart (677,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 700 und 800:<br />\n• SK Heidelberg (723,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 800 und 900:<br />\n• LK Ludwigsburg (838,6)<br />\n• SK Mannheim (873,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 900 und 1.000:<br />\n• LK Rhein-Neckar-Kreis (907,3)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.000 und 1.100:<br />\n• LK Neckar-Odenwald-Kreis (1.078,6)<br />\n• LK Ostalbkreis (1.065,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.100 und 1.200:<br />\n• LK Biberach (1.150,1)<br />\n• LK Bodenseekreis (1.137,7)<br />\n• LK Enzkreis (1.102,9)<br />\n• SK Karlsruhe (1.138,0)<br />\n• LK Konstanz (1.165,3)<br />\n• LK Reutlingen (1.178,4)<br />\n• LK Rottweil (1.183,6)<br />\n• LK Sigmaringen (1.123,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.200 und 1.300:<br />\n• LK Böblingen (1.268,8)<br />\n• LK Calw (1.221,4)<br />\n• LK Esslingen (1.234,6)<br />\n• LK Freudenstadt (1.269,8)<br />\n• LK Karlsruhe (1.207,3)<br />\n• LK Ortenaukreis (1.206,3)<br />\n• LK Ravensburg (1.209,6)<br />\n• LK Rems-Murr-Kreis (1.291,9)<br />\n• LK Schwarzwald-Baar-Kreis (1.292,8)<br />\n• LK Waldshut (1.219,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.300 und 1.400:<br />\n• SK Baden-Baden (1.394,1)<br />\n• LK Göppingen (1.367,2)<br />\n• SK Heilbronn (1.356,2)<br />\n• LK Hohenlohekreis (1.379,0)<br />\n• LK Main-Tauber-Kreis (1.340,8)<br />\n• SK Pforzheim (1.392,7)<br />\n• LK Tübingen (1.363,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.400 und 1.500:<br />\n• LK Alb-Donau-Kreis (1.500,0)<br />\n• LK Breisgau-Hochschwarzwald (1.454,7)<br />\n• LK Tuttlingen (1.427,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.500 und 1.600:<br />\n• SK Freiburg im Breisgau (1.529,8)<br />\n• LK Heilbronn (1.533,1)<br />\n• LK Lörrach (1.548,2)<br />\n• LK Rastatt (1.586,4)<br />\n• LK Schwäbisch Hall (1.525,8)<br />\n• LK Zollernalbkreis (1.546,9)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.600 und 1.700:<br />\n• LK Heidenheim (1.626,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 1.700:<br />\n• LK Emmendingen (1.749,9)<br />\n• SK Ulm (1.795,8)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 2688,
+                    "length": 19
+                }
+            ],
+            "views": 86234,
+            "forwards": 34
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 954,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1643652153,
+            "message": "Corona-Bericht für Baden-Württemberg 31. Januar 2022<br />\n<br />\nAktuelle Stufe: Alarmstufe I<br />\n<br />\nNeuinfektionen: 18.458 (gesamt: 1.374.016)<br />\nVerstorbene: 13.669 (+16)<br />\nGenesene: 1.042.757 (+2.137)<br />\nAktuell Infizierte: 317.590 (+35.555)<br />\n<br />\n7-Tage-Inzidenz gesamt: 1.191,3 (+37,0)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 4,8 (-0,2)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 274 (-1)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 12,4 % (-0,1)<br />\n<br />\n7-Tage-R-Wert: 1,14<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 73,3 % (+0,1)<br />\nImpfquote grundimmunisiert: 72,4 % (+0,2)<br />\nImpfquote Auffrischimpfungen: 52,8 % (+0,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 700:<br />\n• SK Heidelberg (688,5)<br />\n• SK Stuttgart (690,9)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 800 und 900:<br />\n• SK Mannheim (816,2)<br />\n• LK Rhein-Neckar-Kreis (811,9)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 900 und 1.000:<br />\n• LK Ludwigsburg (919,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.000 und 1.100:<br />\n• LK Enzkreis (1.031,8)<br />\n• LK Neckar-Odenwald-Kreis (1.021,6)<br />\n• LK Sigmaringen (1.093,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.100 und 1.200:<br />\n• LK Biberach (1.193,6)<br />\n• LK Böblingen (1.147,1)<br />\n• LK Esslingen (1.133,4)<br />\n• SK Karlsruhe (1.137,4)<br />\n• LK Ortenaukreis (1.119,8)<br />\n• LK Ostalbkreis (1.135,2)<br />\n• LK Reutlingen (1.199,3)<br />\n• LK Schwarzwald-Baar-Kreis (1.157,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.200 und 1.300:<br />\n• LK Bodenseekreis (1.211,6)<br />\n• LK Freudenstadt (1.274,9)<br />\n• LK Karlsruhe (1.223,2)<br />\n• LK Konstanz (1.265,7)<br />\n• LK Ravensburg (1.268,0)<br />\n• LK Rottweil (1.230,0)<br />\n• LK Tübingen (1.254,4)<br />\n• LK Tuttlingen (1.264,1)<br />\n• LK Waldshut (1.263,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.300 und 1.400:<br />\n• LK Calw (1.348,7)<br />\n• LK Heilbronn (1.396,5)<br />\n• SK Heilbronn (1.354,6)<br />\n• LK Hohenlohekreis (1.387,8)<br />\n• LK Main-Tauber-Kreis (1.337,0)<br />\n• SK Pforzheim (1.335,5)<br />\n• LK Rems-Murr-Kreis (1.324,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.400 und 1.500:<br />\n• SK Baden-Baden (1.439,2)<br />\n• LK Breisgau-Hochschwarzwald (1.451,3)<br />\n• LK Göppingen (1.462,2)<br />\n• LK Lörrach (1.420,6)<br />\n• LK Rastatt (1.494,7)<br />\n• LK Schwäbisch Hall (1.477,8)<br />\n• LK Zollernalbkreis (1.443,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.500 und 1.600:<br />\n• LK Alb-Donau-Kreis (1.505,0)<br />\n• SK Freiburg im Breisgau (1.514,2)<br />\n• LK Heidenheim (1.504,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.600 und 1.700:<br />\n• LK Emmendingen (1.666,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 1.700:<br />\n• SK Ulm (1.736,5)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 2617,
+                    "length": 19
+                }
+            ],
+            "views": 87419,
+            "forwards": 49
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 953,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1643448454,
+            "message": "Das Kultusministerium hat die Corona-Verordnungen Sport sowie Musik-, Kunst- und Jugendkunstschulen an die geänderte Corona-Verordnung des Landes angepasst: <a href=\"https://t1p.de/78u1\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/78u1</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 157,
+                    "length": 19
+                }
+            ],
+            "views": 94394,
+            "forwards": 33
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 952,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1643390554,
+            "message": "Corona-Bericht für Baden-Württemberg 28. Januar 2022<br />\n<br />\nAktuelle Stufe: Alarmstufe I<br />\n<br />\nNeuinfektionen: 25.269 (gesamt: 1.327.219)<br />\nVerstorbene: 13.641 (+22)<br />\nGenesene: 1.031.543 (+6.885)<br />\nAktuell Infizierte: 282.035 (+18.362)<br />\n<br />\n7-Tage-Inzidenz gesamt: 1.081,6 (+57,7)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 4,8 (-0,1)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 274 (-2)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 12,4 % (+0,0)<br />\n<br />\n7-Tage-R-Wert: 1,14<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 73,2 % (+0,0)<br />\nImpfquote grundimmunisiert: 72,2 % (+0,1)<br />\nImpfquote Auffrischimpfungen: 52,2 % (+0,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 800:<br />\n• SK Heidelberg (754,7)<br />\n• LK Ludwigsburg (782,1)<br />\n• SK Stuttgart (793,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 800 und 900:<br />\n• SK Mannheim (811,7)<br />\n• LK Rhein-Neckar-Kreis (846,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 900 und 1.000:<br />\n• LK Biberach (994,8)<br />\n• LK Böblingen (932,0)<br />\n• LK Enzkreis (993,2)<br />\n• LK Esslingen (945,1)<br />\n• LK Freudenstadt (997,8)<br />\n• LK Neckar-Odenwald-Kreis (945,8)<br />\n• LK Schwarzwald-Baar-Kreis (959,3)<br />\n• LK Sigmaringen (959,9)<br />\n• LK Tuttlingen (992,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.000 und 1.100:<br />\n• LK Karlsruhe (1.084,3)<br />\n• LK Ostalbkreis (1.018,5)<br />\n• LK Reutlingen (1.035,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.100 und 1.200:<br />\n• LK Calw (1.123,3)<br />\n• LK Göppingen (1.153,5)<br />\n• LK Heilbronn (1.184,0)<br />\n• SK Karlsruhe (1.103,3)<br />\n• LK Konstanz (1.130,5)<br />\n• LK Main-Tauber-Kreis (1.108,6)<br />\n• LK Ortenaukreis (1.167,6)<br />\n• LK Ravensburg (1.180,2)<br />\n• LK Rems-Murr-Kreis (1.172,3)<br />\n• LK Rottweil (1.119,4)<br />\n• LK Tübingen (1.142,8)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.200 und 1.300:<br />\n• LK Breisgau-Hochschwarzwald (1.280,3)<br />\n• LK Heidenheim (1.239,3)<br />\n• LK Hohenlohekreis (1.270,8)<br />\n• LK Lörrach (1.249,8)<br />\n• SK Pforzheim (1.275,2)<br />\n• LK Waldshut (1.207,1)<br />\n• LK Zollernalbkreis (1.254,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.300 und 1.400:<br />\n• LK Alb-Donau-Kreis (1.324,4)<br />\n• SK Baden-Baden (1.341,8)<br />\n• LK Bodenseekreis (1.351,5)<br />\n• SK Heilbronn (1.329,3)<br />\n• LK Rastatt (1.384,4)<br />\n• LK Schwäbisch Hall (1.329,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 1.400 und 1.500:<br />\n• LK Emmendingen (1.480,3)<br />\n• SK Freiburg im Breisgau (1.412,9)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 1.500:<br />\n• SK Ulm (1.533,2)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 2449,
+                    "length": 19
+                }
+            ],
+            "views": 101634,
+            "forwards": 44
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

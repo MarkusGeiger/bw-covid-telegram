@@ -1,0 +1,495 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17920,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 411,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608721656,
+            "message": "",
+            "media": {
+                "_": "messageMediaPhoto",
+                "flags": 1,
+                "photo": {
+                    "_": "photo",
+                    "flags": 0,
+                    "has_stickers": false,
+                    "id": 5411274668721156290,
+                    "access_hash": 7525291001080440064,
+                    "file_reference": {
+                        "_": "bytes",
+                        "bytes": "AlRmf6cAAAGbYtnQ5Qh4Wl0uejgE9CN4n5zuq/M="
+                    },
+                    "date": 1608721655,
+                    "sizes": [
+                        {
+                            "_": "photoStrippedSize",
+                            "type": "i",
+                            "bytes": {
+                                "_": "bytes",
+                                "bytes": "ARQoqW/+tAzjg02JVFwwdSw9hUYzvG0ZNTTJJHHl8deMDFSUDhNx8tsr24rcPXqawoILmQfLGxX1PFaj30YUlAWI5weKBFoc9zRVdZWeLeMA+1FAWIbKyhZRIdxOPWrwiRTgKOO5oooAVjisS0O5N7AElgpB6YNFFHQEX4f+PP8AH/GiiipZSA=="
+                            },
+                            "inflated": {
+                                "_": "bytes",
+                                "bytes": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCAAUACgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCpb/60DOODTYlUXDB1LD2FRjO8bRk1NMkkceXx14wMVJQOE3Hy2yvbitw9eprCgguZB8sbFfU8VqPfRhSUBYjnB4oEWhz3NFV1lZ4t4wD7UUBYhsrKFlEh3E49avCJFOAo47miigBWOKxLQ7k3sASWCkHpg0UUdARfh/48/wAf8aKKKllI/9k="
+                            }
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "m",
+                            "w": 320,
+                            "h": 160,
+                            "size": 16065
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "x",
+                            "w": 800,
+                            "h": 400,
+                            "size": 75059
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "y",
+                            "w": 1280,
+                            "h": 640,
+                            "size": 157517
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "w",
+                            "w": 1600,
+                            "h": 800,
+                            "size": 103331
+                        }
+                    ],
+                    "dc_id": 2
+                }
+            },
+            "views": 42124,
+            "forwards": 23
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 410,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608658344,
+            "message": "Corona-Bericht für Baden-Württemberg vom 22. Dezember 2020<br />\n<br />\nNeuinfektionen: 3.000 (gesamt: 217.454)<br />\nVerstorbene: 4.266 (+166)<br />\nGenesene: 154.622 (+2.424)<br />\nAktuell Infizierte: 58.566 (+410)<br />\n7-Tage-R-Wert: 1,02<br />\n7-Tage-Inzidenz: 202,1<br />\nGesamtbelegung der Intensivkapazitäten: 85,8 %<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz >35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100<br />\n• LK Alb-Donau-Kreis (165,9)<br />\n• SK Baden-Baden (121,4)<br />\n• LK Böblingen (150,5)<br />\n• LK Bodenseekreis (193,1)<br />\n• LK Breisgau-Hochschwarzwald (127,5)<br />\n• LK Emmendingen (198,3)<br />\n• LK Esslingen (159,4)<br />\n• SK Freiburg im Breisgau (110,7)<br />\n• LK Göppingen (190,2)<br />\n• SK Heidelberg (156,1)<br />\n• LK Heidenheim (163,4)<br />\n• LK Hohenlohekreis (168,7)<br />\n• SK Karlsruhe (146,1)<br />\n• LK Konstanz (136,9)<br />\n• LK Ludwigsburg (181,7)<br />\n• LK Main-Tauber-Kreis (155,6)<br />\n• LK Ostalbkreis (180,9)<br />\n• LK Rastatt (144,8)<br />\n• LK Ravensburg (168,2)<br />\n• LK Schwäbisch Hall (174,3)<br />\n• LK Sigmaringen (146,7)<br />\n• SK Stuttgart (135,7)<br />\n• SK Ulm (172,7)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >200<br />\n• LK Biberach (239,5)<br />\n• LK Freudenstadt (202,1)<br />\n• LK Heilbronn (244,4)<br />\n• LK Karlsruhe (211,6)<br />\n• LK Lörrach (260,6)<br />\n• SK Mannheim (261,7)<br />\n• LK Ortenaukreis (211,9)<br />\n• LK Rems-Murr-Kreis (209,9)<br />\n• LK Reutlingen (240,0)<br />\n• LK Rhein-Neckar-Kreis (244,0)<br />\n• LK Schwarzwald-Baar-Kreis (245,6)<br />\n• LK Tübingen (230,9)<br />\n• LK Tuttlingen (286,3)<br />\n• LK Waldshut (218,7)<br />\n• LK Zollernalbkreis (227,1)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >300<br />\n• LK Calw (310,3)<br />\n• LK Enzkreis (303,7)<br />\n• SK Heilbronn (345,2)<br />\n• LK Neckar-Odenwald-Kreis (379,4)<br />\n• SK Pforzheim (353,3)<br />\n• LK Rottweil (372,5)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201222_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201222_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1648,
+                    "length": 204
+                }
+            ],
+            "views": 43876,
+            "forwards": 19
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 409,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608657745,
+            "message": "Das Sozialministerium hat die Corona-Verordnung Einreise Quarantäne geändert. Die quarantänefreie Einreise bei einem bis zu 24-stündigen Aufenthalt in Baden-Württemberg beziehungsweise nach einem bis zu 24-stündigen Aufenthalt in einer Grenzregion ist nur gestattet, sofern die Ein- bzw. Rückreise nicht überwiegend aus touristischen Gründen oder zu Zwecken des Einkaufs erfolgt.<br />\n<br />\n<br />\nDie 24-Stunden-Regelung bleibt zwar mit Blick auf den gemeinsamen Lebensraum weiterhin grundsätzlich erhalten. So besteht auch weiterhin keine Quarantänepflicht, wenn die Grenze insbesondere aus beruflichen, schulischen, medizinischen, pflegerischen oder familiär bedingten Gründen überquert wird. Auch transnationale Partnerschaften ohne Trauschein sind von den neuen Regelungen nicht betroffen. An der bestehenden 72-Stunden-Regelung ändert sich ebenfalls nichts.<br />\n<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/einschraenkung-der-24-stunden-regelung-in-grenzregionen/?&pk_medium=messenger&pk_campaign=201222_mes&pk_source=mes&pk_keyword=vo_eq\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/einschraenkung-der-24-stunden-regelung-in-grenzregionen/?&pk_medium=messenger&pk_campaign=201222_mes&pk_source=mes&pk_keyword=vo_eq</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 850,
+                    "length": 204
+                }
+            ],
+            "views": 42324,
+            "forwards": 96
+        },
+        {
+            "_": "message",
+            "flags": 17920,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 408,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608637056,
+            "message": "„Normalerweise ist Weihnachten ein Fest der Gemeinschaft. Doch genau diese Gemeinschaftlichkeit, die wir so sehr schätzen, können wir in diesem Jahr nur in ganz engen Grenzen leben.<br />\n<br />\nDenn in der Pandemie bedeutet körperliche Nähe immer die Gefahr, sich selbst oder andere mit dem Virus anzustecken. Weihnachten und Silvester können wir deshalb in diesem Jahr nur im allerengsten Kreis feiern.<br />\nJetzt kommt es auf jede und jeden einzelnen von uns an. Ich möchte Sie bitten mitzuhelfen. Ihr persönliches Handeln kann ein Beitrag sein, um großen Schaden von uns allen abzuwenden.<br />\n<br />\nBitte denken Sie daran, dass die Regeln nicht nur Buchstaben sind. Sie haben auch einen Geist. Denn man muss nicht alles tun, was erlaubt ist. Suchen Sie nicht nach Schlupflöchern, sondern schließen sie diese eigenverantwortlich. Je mehr wir unsere Kontakte einschränken, desto mehr Sicherheit schaffen wir für uns und unsere Mitmenschen.<br />\n<br />\nIhr Winfried Kretschmann“",
+            "media": {
+                "_": "messageMediaPhoto",
+                "flags": 1,
+                "photo": {
+                    "_": "photo",
+                    "flags": 0,
+                    "has_stickers": false,
+                    "id": 5408942458529755731,
+                    "access_hash": 6849872274787113391,
+                    "file_reference": {
+                        "_": "bytes",
+                        "bytes": "AlRmf6cAAAGYYtnQ5QFb0CAm4UQL/xIxH2Q+3yU="
+                    },
+                    "date": 1608637055,
+                    "sizes": [
+                        {
+                            "_": "photoStrippedSize",
+                            "type": "i",
+                            "bytes": {
+                                "_": "bytes",
+                                "bytes": "ASgo1+hwKz9RjDSh8HO3H61dPWql6sjEbSAAtLYDPjj859m7aCCSatafHHBctsYk7D79xUESRmUJI2CRj61fSCKHcUUDEZBJJp7hsXB83X+WKKEOVH+OaKAG5AOCCfwqKeMy9H2jGPu5qYkFhzjIpuOThskdqQFSPTkTktuOMZxUkUDI5JlcgqR06VZGcc00btmON1ICTOB60U0H5tvfGaKdwGW4cQpvBzj1qWiihAB6U3H0oooaAjO5JCdpZSO3aiiipGc="
+                            },
+                            "inflated": {
+                                "_": "bytes",
+                                "bytes": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCAAoACgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDX6HArP1GMNKHwc7cfrV09aqXqyMRtIAC0tgM+OPzn2btoIJJq1p8ccFy2xiTsPv3FQRJGZQkjYJGPrV9IIodxRQMRkEkmnuGxcHzdf5YooQ5Uf45ooAbkA4IJ/Cop4zL0faMY+7mpiQWHOMim45OGyR2pAVI9OROS244xnFSRQMjkmVyCpHTpVkZxzTRu2Y43UgJM4HrRTQfm298Zop3AZbhxCm8HOPWpaKKEAHpTcfSiihoCM7kkJ2llI7dqKKKkZ//Z"
+                            }
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "m",
+                            "w": 320,
+                            "h": 320,
+                            "size": 30705
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "x",
+                            "w": 800,
+                            "h": 800,
+                            "size": 136512
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "y",
+                            "w": 1280,
+                            "h": 1280,
+                            "size": 273898
+                        },
+                        {
+                            "_": "photoSize",
+                            "type": "w",
+                            "w": 1600,
+                            "h": 1600,
+                            "size": 357517
+                        }
+                    ],
+                    "dc_id": 2
+                }
+            },
+            "views": 43496,
+            "forwards": 266
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 407,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608570445,
+            "message": "Corona-Bericht für Baden-Württemberg vom 21. Dezember 2020<br />\n<br />\nNeuinfektionen: 2.241 (gesamt: 214.454)<br />\nVerstorbene: 4.100 (+132)<br />\nGenesene: 152.198 (+1.835)<br />\nAktuell Infizierte: 58.156 (+274)<br />\n7-Tage-R-Wert: 1,07<br />\n7-Tage-Inzidenz: 207,8<br />\nGesamtbelegung der Intensivkapazitäten: 85,7 %<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz >35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100<br />\n• LK Alb-Donau-Kreis (173,0)<br />\n• SK Baden-Baden (130,5)<br />\n• LK Böblingen (166,2)<br />\n• LK Bodenseekreis (192,2)<br />\n• LK Breisgau-Hochschwarzwald (144,2)<br />\n• LK Emmendingen (186,3)<br />\n• LK Esslingen (183,9)<br />\n• SK Freiburg im Breisgau (126,7)<br />\n• LK Göppingen (195,2)<br />\n• SK Heidelberg (143,0)<br />\n• LK Heidenheim (154,4)<br />\n• LK Hohenlohekreis (172,2)<br />\n• SK Karlsruhe (150,0)<br />\n• LK Konstanz (146,0)<br />\n• LK Ludwigsburg (163,5)<br />\n• LK Main-Tauber-Kreis (172,2)<br />\n• LK Ostalbkreis (181,9)<br />\n• LK Rastatt (141,7)<br />\n• LK Ravensburg (176,6)<br />\n• LK Schwäbisch Hall (180,9)<br />\n• LK Sigmaringen (162,8)<br />\n• SK Stuttgart (148,6)<br />\n• SK Ulm (176,7)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >200<br />\n• LK Biberach (256,9)<br />\n• LK Enzkreis (291,1)<br />\n• LK Freudenstadt (214,0)<br />\n• LK Heilbronn (250,5)<br />\n• LK Karlsruhe (214,1)<br />\n• LK Lörrach (267,6)<br />\n• SK Mannheim (278,4)<br />\n• LK Ortenaukreis (213,0)<br />\n• LK Rems-Murr-Kreis (227,0)<br />\n• LK Reutlingen (254,0)<br />\n• LK Rhein-Neckar-Kreis (254,2)<br />\n• LK Schwarzwald-Baar-Kreis (244,2)<br />\n• LK Tübingen (222,6)<br />\n• LK Tuttlingen (272,8)<br />\n• LK Waldshut (217,5)<br />\n• LK Zollernalbkreis (219,7)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >300<br />\n• LK Calw (329,1)<br />\n• SK Heilbronn (358,6)<br />\n• LK Neckar-Odenwald-Kreis (367,6)<br />\n• SK Pforzheim (328,7)<br />\n• LK Rottweil (399,6)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201221_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201221_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1648,
+                    "length": 204
+                }
+            ],
+            "views": 42739,
+            "forwards": 26
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 406,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608487345,
+            "message": "Corona-Bericht für Baden-Württemberg vom 20. Dezember 2020<br />\n<br />\nNeuinfektionen: 2.363 (gesamt: 212.213)<br />\nVerstorbene: 3.968 (+30)<br />\nGenesene: 150.363 (+2.386)<br />\nAktuell Infizierte: 57.882 (-53)<br />\n7-Tage-R-Wert: 1,08<br />\n7-Tage-Inzidenz: 207,7<br />\nGesamtbelegung der Intensivkapazitäten: 85,2 %<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz >35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100<br />\n• LK Alb-Donau-Kreis (182,2)<br />\n• SK Baden-Baden (154,0)<br />\n• LK Böblingen (163,7)<br />\n• LK Bodenseekreis (189,0)<br />\n• LK Breisgau-Hochschwarzwald (135,4)<br />\n• LK Emmendingen (175,5)<br />\n• LK Esslingen (187,7)<br />\n• SK Freiburg im Breisgau (128,0)<br />\n• SK Heidelberg (149,2)<br />\n• LK Heidenheim (159,7)<br />\n• LK Hohenlohekreis (182,9)<br />\n• SK Karlsruhe (149,3)<br />\n• LK Konstanz (134,8)<br />\n• LK Ludwigsburg (164,5)<br />\n• LK Main-Tauber-Kreis (176,0)<br />\n• LK Ostalbkreis (173,9)<br />\n• LK Rastatt (156,4)<br />\n• LK Ravensburg (179,4)<br />\n• LK Schwäbisch Hall (186,5)<br />\n• LK Sigmaringen (164,3)<br />\n• SK Stuttgart (165,9)<br />\n• LK Waldshut (144,4)<br />\n• SK Ulm (171,1)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >200<br />\n• LK Biberach (255,9)<br />\n• LK Enzkreis (284,6)<br />\n• LK Freudenstadt (217,3)<br />\n• LK Göppingen (210,0)<br />\n• LK Heilbronn (259,2)<br />\n• LK Karlsruhe (222,0)<br />\n• LK Lörrach (271,9)<br />\n• SK Mannheim (290,7)<br />\n• LK Ortenaukreis (207,4)<br />\n• LK Rems-Murr-Kreis (223,1)<br />\n• LK Reutlingen (251,2)<br />\n• LK Rhein-Neckar-Kreis (243,5)<br />\n• LK Schwarzwald-Baar-Kreis (253,6)<br />\n• LK Tübingen (223,9)<br />\n• LK Tuttlingen (240,8)<br />\n• LK Zollernalbkreis (219,7)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >300<br />\n• LK Calw (327,9)<br />\n• SK Heilbronn (358,6)<br />\n• LK Neckar-Odenwald-Kreis (375,3)<br />\n• SK Pforzheim (345,4)<br />\n• LK Rottweil (367,5)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201220_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201220_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1646,
+                    "length": 204
+                }
+            ],
+            "views": 42344,
+            "forwards": 24
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 405,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608401245,
+            "message": "Corona-Bericht für Baden-Württemberg vom 19. Dezember 2020<br />\n<br />\nNeuinfektionen: 3.463 (gesamt: 209.850)<br />\nVerstorbene: 3.938 (+47)<br />\nGenesene:  147.977 (+2.847)<br />\nAktuell Infizierte: 57.935 (+569) <br />\n7-Tage-R-Wert: 1,08<br />\n7-Tage-Inzidenz: 204,0<br />\nGesamtbelegung der Intensivkapazitäten: 86,8 %<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz >35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100<br />\n• LK Alb-Donau-Kreis (173,5)<br />\n• SK Baden-Baden (163,1)<br />\n• LK Böblingen (160,1)<br />\n• LK Bodenseekreis (186,7)<br />\n• LK Breisgau-Hochschwarzwald (138,5)<br />\n• LK Emmendingen (163,5)<br />\n• LK Esslingen (197,2)<br />\n• SK Freiburg im Breisgau (128,5)<br />\n• LK Göppingen (191,8)<br />\n• SK Heidelberg (149,2)<br />\n• LK Heidenheim (130,3)<br />\n• LK Hohenlohekreis (182,0)<br />\n• SK Karlsruhe (151,6)<br />\n• LK Konstanz (140,4)<br />\n• LK Ludwigsburg (162,6)<br />\n• LK Main-Tauber-Kreis (173,0)<br />\n• LK Ostalbkreis (198,7)<br />\n• LK Rastatt (155,1)<br />\n• LK Ravensburg (171,0)<br />\n• LK Schwäbisch Hall (177,9)<br />\n• LK Sigmaringen (149,8)<br />\n• SK Stuttgart (165,6)<br />\n• LK Tübingen (217,3)<br />\n• LK Waldshut (162,6)<br />\n• SK Ulm (164,8)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >200<br />\n• LK Biberach (207,2)<br />\n• LK Enzkreis (260,1)<br />\n• LK Freudenstadt (231,7)<br />\n• LK Heilbronn (210,2)<br />\n• LK Karlsruhe (224,0)<br />\n• LK Lörrach (277,2)<br />\n• SK Mannheim (297,1)<br />\n• LK Ortenaukreis (214,6)<br />\n• LK Rems-Murr-Kreis (223,1)<br />\n• LK Reutlingen (243,2)<br />\n• LK Rhein-Neckar-Kreis (244,5)<br />\n• LK Rottweil (285,2)<br />\n• LK Schwarzwald-Baar-Kreis (248,0)<br />\n• LK Tuttlingen (238,0)<br />\n• LK Zollernalbkreis (221,8)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >300<br />\n• LK Calw (332,3)<br />\n• SK Heilbronn (348,4)<br />\n• LK Neckar-Odenwald-Kreis (394,1)<br />\n• SK Pforzheim (327,9)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201219_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201219_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1649,
+                    "length": 204
+                }
+            ],
+            "views": 41983,
+            "forwards": 32
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 404,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608314246,
+            "message": "Corona-Bericht für Baden-Württemberg vom 18. Dezember 2020<br />\n<br />\nNeuinfektionen: 4.284 (gesamt: 206.387)<br />\nVerstorbene: 3.891 (+97)<br />\nGenesene: 145.130 (+2.843)<br />\nAktuell Infizierte: 57.366 (+1.344<br />\n7-Tage-R-Wert: 1,04<br />\n7-Tage-Inzidenz: 199,1<br />\nGesamtbelegung der Intensivkapazitäten: 87,7 %<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz >35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100<br />\n• LK Alb-Donau-Kreis (164,4)<br />\n• SK Baden-Baden (161,3)<br />\n• LK Biberach (185,8)<br />\n• LK Böblingen (159,6)<br />\n• LK Bodenseekreis (165,1)<br />\n• LK Breisgau-Hochschwarzwald (132,8)<br />\n• LK Emmendingen (149,0)<br />\n• LK Esslingen (182,8)<br />\n• SK Freiburg im Breisgau (131,9)<br />\n• LK Göppingen (184,4)<br />\n• SK Heidelberg (144,9)<br />\n• LK Heidenheim (103,2)<br />\n• LK Hohenlohekreis (172,2)<br />\n• SK Karlsruhe (134,9)<br />\n• LK Konstanz (139,7)<br />\n• LK Ludwigsburg (169,8)<br />\n• LK Main-Tauber-Kreis (179,8)<br />\n• LK Ostalbkreis (168,5)<br />\n• LK Rastatt (151,7)<br />\n• LK Ravensburg (149,3)<br />\n• LK Schwäbisch Hall (176,9)<br />\n• LK Sigmaringen (164,3)<br />\n• SK Stuttgart (157,7)<br />\n• LK Tübingen (224,3)<br />\n• LK Waldshut (184,2)<br />\n• SK Ulm (162,5)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >200<br />\n• LK Enzkreis (264,1)<br />\n• LK Freudenstadt (234,3)<br />\n• LK Heilbronn (228,5)<br />\n• LK Karlsruhe (214,3)<br />\n• LK Lörrach (303,4)<br />\n• LK Ortenaukreis (211,4)<br />\n• LK Rems-Murr-Kreis (208,8)<br />\n• LK Reutlingen (231,3)<br />\n• LK Rhein-Neckar-Kreis (250,4)<br />\n• LK Rottweil (299,5)<br />\n• LK Schwarzwald-Baar-Kreis (232,9)<br />\n• LK Tuttlingen (225,2)<br />\n• LK Zollernalbkreis (214,9)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >300<br />\n• LK Calw (316,0)<br />\n• SK Heilbronn (362,6)<br />\n• LK Lörrach (303,4)<br />\n• SK Mannheim (306,1)<br />\n• LK Neckar-Odenwald-Kreis (334,9)<br />\n• SK Pforzheim (318,4)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201218_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201218_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1669,
+                    "length": 204
+                }
+            ],
+            "views": 42814,
+            "forwards": 31
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 403,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608230544,
+            "message": "Corona-Bericht für Baden-Württemberg vom 17. Dezember 2020<br />\n<br />\nNeuinfektionen: 4.233 (gesamt: 202.103)<br />\nVerstorbene: 3.794 (+80)<br />\nGenesene:  142.287 (+2.922)<br />\nAktuell Infizierte: 56.022 (+1.231)<br />\n7-Tage-R-Wert: 1,00<br />\n7-Tage-Inzidenz: 193,7<br />\nGesamtbelegung der Intensivkapazitäten: 87,2 %<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz >35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100<br />\n• LK Alb-Donau-Kreis (175,1)<br />\n• SK Baden-Baden (161,3)<br />\n• LK Biberach (177,4)<br />\n• LK Böblingen (142,6)<br />\n• LK Bodenseekreis (162,3)<br />\n• LK Breisgau-Hochschwarzwald (125,2)<br />\n• LK Emmendingen (131,0)<br />\n• LK Esslingen (178,9)<br />\n• SK Freiburg im Breisgau (130,2)<br />\n• LK Göppingen (158,1)<br />\n• SK Heidelberg (141,2)<br />\n• LK Heidenheim (142,3)<br />\n• LK Hohenlohekreis (175,8)<br />\n• SK Karlsruhe (147,1)<br />\n• LK Konstanz (138,3)<br />\n• LK Ludwigsburg (166,1)<br />\n• LK Main-Tauber-Kreis (152,6)<br />\n• LK Ortenaukreis (193,1)<br />\n• LK Ostalbkreis (152,5)<br />\n• LK Rastatt (157,3)<br />\n• LK Ravensburg (137,0)<br />\n• LK Schwäbisch Hall (166,7)<br />\n• LK Sigmaringen (159,7)<br />\n• SK Stuttgart (167,0)<br />\n• LK Tübingen (190,7)<br />\n• LK Waldshut (186,5)<br />\n• SK Ulm (171,9)<br />\n• LK Zollernalbkreis (199,6)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >200<br />\n• LK Enzkreis (271,6)<br />\n• LK Freudenstadt (252,9)<br />\n• LK Heilbronn (220,6)<br />\n• LK Karlsruhe (210,1)<br />\n• LK Lörrach (286,4)<br />\n• LK Neckar-Odenwald-Kreis (298,0)<br />\n• LK Rems-Murr-Kreis (215,8)<br />\n• LK Reutlingen (229,2)<br />\n• LK Rhein-Neckar-Kreis (251,1)<br />\n• LK Rottweil (247,4)<br />\n• LK Schwarzwald-Baar-Kreis (220,7)<br />\n• LK Tuttlingen (239,4)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >300<br />\n• LK Calw (302,8)<br />\n• SK Heilbronn (354,7)<br />\n• SK Mannheim (304,5)<br />\n• SK Pforzheim (303,3)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201217_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201217_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1650,
+                    "length": 204
+                }
+            ],
+            "views": 43256,
+            "forwards": 26
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 402,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1608214956,
+            "message": "Bericht von der gestrigen Sitzung der Corona-Lenkungsgruppe zu Corona-Schnelltests für vulnerable Einrichtungen, Pflegepersonal und FFP2-Masken für Risikogruppen: <a href=\"https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/lenkungsgruppe-corona/?&pk_medium=messenger&pk_campaign=201217_mes&pk_source=mes&pk_keyword=lenkungsgruppe\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/lenkungsgruppe-corona/?&pk_medium=messenger&pk_campaign=201217_mes&pk_source=mes&pk_keyword=lenkungsgruppe</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 163,
+                    "length": 176
+                }
+            ],
+            "views": 41426,
+            "forwards": 15
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

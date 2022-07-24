@@ -1,0 +1,384 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 561,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1617133650,
+            "message": "Was bedeutet die Neubewertung von AstraZeneca für die Impfungen in Baden-Württemberg? Hier finden Sie Informationen zur weiteren Vorgehensweise: <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/astrazeneca-fuer-ueber-60-jaehrige-und-als-angebot-fuer-juengere/\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/astrazeneca-fuer-ueber-60-jaehrige-und-als-angebot-fuer-juengere/</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 145,
+                    "length": 138
+                }
+            ],
+            "views": 53810,
+            "forwards": 80
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 560,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1617121954,
+            "message": "Corona-Bericht für Baden-Württemberg 30. März 2021<br />\n<br />\nHinweis: Die Daten vom 29. März 2021 finden Sie ebenfalls unter unten stehendem Link.<br />\n<br />\nNeuinfektionen: 1.976 (gesamt: 361.661)<br />\nNachgewiesene Virusvarianten (VoC) gesamt: 29.952 (+1.506)<br />\nVerstorbene: 8.684 (+27)<br />\nGenesene: 324.764 (+1.405)<br />\nAktuell Infizierte: 28.213 (+544)<br />\n7-Tage-R-Wert: 1,10<br />\n7-Tage-Inzidenz: 125,7<br />\nGesamtbelegung der Intensivkapazitäten: 87,0 %<br />\nErstimpfung gesamt: 1.218.762 (Erstimpfungen am 27. März: 26.147)<br />\nZweitimpfung gesamt: 522.217 (Zweitimpfungen am 27. März: 8.740)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 35 bis 50:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 50 bis 100:<br />\n• LK Böblingen (63,1)<br />\n• LK Breisgau-Hochschwarzwald (85,7)<br />\n• LK Calw (80,4)<br />\n• LK Enzkreis (88,7)<br />\n• SK Freiburg im Breisgau (74,4)<br />\n• SK Heidelberg (84,2)<br />\n• SK Karlsruhe (89,1)<br />\n• LK Lörrach (92,2)<br />\n• SK Pforzheim (66,7)<br />\n• LK Rottweil (99,4)<br />\n• LK Schwarzwald-Baar-Kreis (83,3)<br />\n• LK Waldshut (90,6)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100 bis 200:<br />\n• LK Alb-Donau-Kreis (131,9)<br />\n• SK Baden-Baden (163,1)<br />\n• LK Biberach (146,6)<br />\n• LK Bodenseekreis (109,0)<br />\n• LK Emmendingen (101,0)<br />\n• LK Esslingen (119,2)<br />\n• LK Freudenstadt (100,6)<br />\n• LK Göppingen (126,3)<br />\n• LK Heidenheim (128,0)<br />\n• LK Heilbronn (123,4)<br />\n• SK Heilbronn (146,9)<br />\n• LK Karlsruhe (122,7)<br />\n• LK Konstanz (118,8)<br />\n• LK Ludwigsburg (109,8)<br />\n• LK Main-Tauber-Kreis (182,8)<br />\n• SK Mannheim (182,5)<br />\n• LK Neckar-Odenwald-Kreis (104,4)<br />\n• LK Ortenaukreis (137,4)<br />\n• LK Ostalbkreis (157,9)<br />\n• LK Rastatt (170,7)<br />\n• LK Ravensburg (102,7)<br />\n• LK Rems-Murr-Kreis (145,3)<br />\n• LK Reutlingen (120,2)<br />\n• LK Rhein-Neckar-Kreis (140,6)<br />\n• LK Sigmaringen (182,7)<br />\n• SK Stuttgart (104,1)<br />\n• LK Tübingen (110,2)<br />\n• LK Tuttlingen (115,1)<br />\n• SK Ulm (143,5)<br />\n• LK Zollernalbkreis (130,4)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz über 200:<br />\n• LK Hohenlohekreis (250,3)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz über 400:<br />\n• LK Schwäbisch Hall (470,1)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210330_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210330_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1989,
+                    "length": 203
+                }
+            ],
+            "views": 55303,
+            "forwards": 48
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 559,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1617093159,
+            "message": "Das Sozialministerium hat die Corona-Verordnung Absonderung und die Corona-Verordnung Einreise-Quarantäne angepasst. Was sich geändert hat, haben wir wie immer für Sie hier zusammengefasst: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210330_mes&pk_source=mes&pk_keyword=voaenderungen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210330_mes&pk_source=mes&pk_keyword=voaenderungen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 190,
+                    "length": 200
+                }
+            ],
+            "views": 52952,
+            "forwards": 42
+        },
+        {
+            "_": "message",
+            "flags": 17408,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 558,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1617039151,
+            "message": "Aufgrund eines Fehlers im Datenbankserver konnten die von den Gesundheitsämtern übermittelten Daten nicht vollständig importiert werden. Eine Tagesanalyse konnte daher nicht durchgeführt werden. Die Daten werden im Laufe des morgigen Tages aktualisiert.",
+            "views": 54113,
+            "forwards": 106
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 557,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1616949449,
+            "message": "Corona-Bericht für Baden-Württemberg 28. März 2021<br />\n<br />\nNeuinfektionen: 1.341 (gesamt: 358.512)<br />\nNachgewiesene Virusvarianten (VoC) gesamt: 27.099 (+469)<br />\nVerstorbene: 8.643 (+11)<br />\nGenesene: 322.369 (+1.335)<br />\nAktuell Infizierte: 27.500 (-5)<br />\n7-Tage-R-Wert: 1,17<br />\n7-Tage-Inzidenz: 127,5<br />\nGesamtbelegung der Intensivkapazitäten: 85,2 %<br />\nErstimpfung gesamt: 1.167.624 (Erstimpfungen am 27. März: 28.795)<br />\nZweitimpfung gesamt: 502.706 (Zweitimpfungen am 27. März: 8.544)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 35 bis 50:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 50 bis 100:<br />\n• LK Böblingen (79,9)<br />\n• LK Breisgau-Hochschwarzwald (88,0)<br />\n• LK Calw (87,9)<br />\n• LK Enzkreis (67,1)<br />\n• SK Freiburg im Breisgau (82,6)<br />\n• SK Heidelberg (84,8)<br />\n• SK Karlsruhe (89,7)<br />\n• LK Lörrach (90,5)<br />\n• LK Neckar-Odenwald-Kreis (88,4)<br />\n• SK Pforzheim (58,0)<br />\n• LK Schwarzwald-Baar-Kreis (90,4)<br />\n• LK Tübingen (98,8)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100 bis 200:<br />\n• LK Alb-Donau-Kreis (127,9)<br />\n• SK Baden-Baden (132,3)<br />\n• LK Biberach (163,5)<br />\n• LK Bodenseekreis (110,4)<br />\n• LK Emmendingen (105,8)<br />\n• LK Esslingen (136,8)<br />\n• LK Freudenstadt (121,8)<br />\n• LK Göppingen (115,1)<br />\n• LK Heidenheim (126,5)<br />\n• LK Heilbronn (122,2)<br />\n• SK Heilbronn (144,6)<br />\n• LK Karlsruhe (122,2)<br />\n• LK Konstanz (125,0)<br />\n• LK Ludwigsburg (119,7)<br />\n• LK Main-Tauber-Kreis (166,2)<br />\n• SK Mannheim (172,5)<br />\n• LK Ortenaukreis (140,9)<br />\n• LK Ostalbkreis (154,4)<br />\n• LK Rastatt (140,0)<br />\n• LK Ravensburg (114,6)<br />\n• LK Rems-Murr-Kreis (145,8)<br />\n• LK Reutlingen (120,9)<br />\n• LK Rhein-Neckar-Kreis (134,6)<br />\n• LK Rottweil (106,5)<br />\n• SK Stuttgart (102,1)<br />\n• LK Tuttlingen (109,4)<br />\n• SK Ulm (115,2)<br />\n• LK Waldshut (121,5)<br />\n• LK Zollernalbkreis (137,8)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz über 200:<br />\n• LK Hohenlohekreis (268,1)<br />\n• LK Sigmaringen (240,7)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz über 400:<br />\n• LK Schwäbisch Hall (477,7)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210328_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210328_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1898,
+                    "length": 203
+                }
+            ],
+            "views": 59446,
+            "forwards": 71
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 556,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1616938648,
+            "message": "Das Wissenschaftsministerium hat die Corona-Verordnung Studienbetrieb bis zum 18. April 2021 verlängert und an die neue Corona-Verordnung des Landes angepasst: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 160,
+                    "length": 117
+                }
+            ],
+            "views": 54555,
+            "forwards": 30
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 555,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1616878349,
+            "message": "Die ab Montag geltende neue Corona-Verordnung für Baden-Württemberg wurde soeben veröffentlicht. Wir haben hier alle wesentlichen Änderungen für Sie zusammengefasst.<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210327_mes&pk_source=mes&pk_keyword=voaenderungen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210327_mes&pk_source=mes&pk_keyword=voaenderungen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 166,
+                    "length": 200
+                }
+            ],
+            "views": 55996,
+            "forwards": 110
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 554,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1616864549,
+            "message": "Corona-Bericht für Baden-Württemberg 27. März 2021<br />\n<br />\nNeuinfektionen: 2.149 (gesamt: 357.171)<br />\nNachgewiesene Virusvarianten (VoC) gesamt: 26.630 (+1.297)<br />\nVerstorbene: 8.632 (+10)<br />\nGenesene: 321.034 (+1.350)<br />\nAktuell Infizierte: 27.505 (+789)<br />\n7-Tage-R-Wert: 1,19<br />\n7-Tage-Inzidenz: 121,5<br />\nGesamtbelegung der Intensivkapazitäten: 87,3 %<br />\nErstimpfung gesamt: 1.138.147 (Erstimpfungen am 26. März: 27.275)<br />\nZweitimpfung gesamt: 494.052 (Zweitimpfungen am 26. März: 11.381)<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz unter 35:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 35 bis 50:<br />\n-<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 50 bis 100:<br />\n• LK Böblingen (70,8)<br />\n• LK Breisgau-Hochschwarzwald (89,9)<br />\n• LK Calw (86,1)<br />\n• LK Enzkreis (76,7)<br />\n• SK Freiburg im Breisgau (84,3)<br />\n• SK Heidelberg (81,7)<br />\n• SK Karlsruhe (88,1)<br />\n• LK Lörrach (91,4)<br />\n• LK Neckar-Odenwald-Kreis (80,8)<br />\n• SK Pforzheim (69,1)<br />\n• LK Rottweil (90,1)<br />\n• LK Schwarzwald-Baar-Kreis (87,5)<br />\n• LK Tübingen (85,7)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz 100 bis 200:<br />\n• LK Alb-Donau-Kreis (116,7)<br />\n• SK Baden-Baden (134,1)<br />\n• LK Biberach (146,6)<br />\n• LK Bodenseekreis (106,2)<br />\n• LK Emmendingen (103,4)<br />\n• LK Esslingen (132,5)<br />\n• LK Freudenstadt (115,0)<br />\n• LK Göppingen (103,4)<br />\n• LK Heidenheim (124,3)<br />\n• LK Heilbronn (108,6)<br />\n• SK Heilbronn (136,7)<br />\n• LK Karlsruhe (118,6)<br />\n• LK Konstanz (128,2)<br />\n• LK Ludwigsburg (115,5)<br />\n• LK Main-Tauber-Kreis (171,5)<br />\n• SK Mannheim (151,3)<br />\n• LK Ortenaukreis (118,8)<br />\n• LK Ostalbkreis (146,2)<br />\n• LK Rastatt (140,4)<br />\n• LK Ravensburg (103,0)<br />\n• LK Rems-Murr-Kreis (136,7)<br />\n• LK Reutlingen (108,3)<br />\n• LK Rhein-Neckar-Kreis (128,4)<br />\n• SK Stuttgart (103,0)<br />\n• LK Tuttlingen (112,2)<br />\n• SK Ulm (115,2)<br />\n• LK Waldshut (112,3)<br />\n• LK Zollernalbkreis (126,2)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz über 200:<br />\n• LK Hohenlohekreis (269,9)<br />\n• LK Sigmaringen (221,6)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz über 400:<br />\n• LK Schwäbisch Hall (475,2)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210327_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messengerpk_campaign=210327_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1902,
+                    "length": 203
+                }
+            ],
+            "views": 55967,
+            "forwards": 55
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 553,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1616785350,
+            "message": "Der Bund hat Frankreich heute als Hochinzidenzgebiet eingestuft. Ab Sonntag, 28. März, 0 Uhr, gelten damit verschärfte Einreiseregelungen. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/frankreich-als-hochinzidenzgebiet-eingestuft-1/?&pk_medium=messenger&pk_campaign=210326_mes&pk_source=mes&pk_keyword=voaenderungjugend\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/frankreich-als-hochinzidenzgebiet-eingestuft-1/?&pk_medium=messenger&pk_campaign=210326_mes&pk_source=mes&pk_keyword=voaenderungjugend</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 139,
+                    "length": 207
+                }
+            ],
+            "views": 53363,
+            "forwards": 74
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 552,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1616785348,
+            "message": "Das Sozialministerium hat die Corona-Verordnung für Angebote der Kinder- und Jugendarbeit sowie Jugendsozialarbeit angepasst. Damit werden Betreuungsangebote in der Notbetreuung an Schulen in der unterrichtsfreien Zeit geregelt: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210326_mes&pk_source=mes&pk_keyword=voaenderungjugend\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=210326_mes&pk_source=mes&pk_keyword=voaenderungjugend</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 229,
+                    "length": 204
+                }
+            ],
+            "views": 52509,
+            "forwards": 19
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

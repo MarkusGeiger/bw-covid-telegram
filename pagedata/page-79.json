@@ -1,0 +1,391 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 331,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604566031,
+            "message": "Baden-Württemberg passt zum 7. November die Corona-Verordnung Jugendarbeit an. Damit sind unter Auflagen bestimmte Angebote auch während der Pandemie möglich. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/kinder-und-jugendarbeit-auch-in-coronazeiten-mit-einschraenkungen-moeglich/?&pk_medium=messenger&pk_campaign=201105_mes&pk_source=mes&pk_keyword=vojugend\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/kinder-und-jugendarbeit-auch-in-coronazeiten-mit-einschraenkungen-moeglich/?&pk_medium=messenger&pk_campaign=201105_mes&pk_source=mes&pk_keyword=vojugend</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 159,
+                    "length": 226
+                }
+            ],
+            "views": 29761,
+            "forwards": 40
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 330,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604508725,
+            "message": "Corona-Bericht für Baden-Württemberg vom 4. November 2020<br />\n<br />\nNeuinfektionen: 2.840 (gesamt: 90.738)<br />\nVerstorbene: 2.071 (+16)<br />\nGenesene: 58.960 (+1.132)<br />\nAktuell Infizierte: 29.707 (+1.692)<br />\n7-Tage-R-Wert: 0,95<br />\n7-Tage-Inzidenz: 121,4<br />\nGesamtbelegung der Intensivkapazitäten: 76 %<br />\n<br />\nStadtkreise (SK) und Landkreise (LK) mit 7-Tage-Inzidenz >35 (0):<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50 (12; -3):<br />\n• SK Baden-Baden (65,2)<br />\n• LK Biberach (80,0)<br />\n• Bodenseekreis (77,3)<br />\n• LK Freudenstadt (81,2)<br />\n• Main-Tauber-Kreis (58,9)<br />\n• Neckar-Odenwald-Kreis (79,4)<br />\n• Ostalbkreis (74,5)<br />\n• LK Rastatt (87,3)<br />\n• LK Ravensburg (57,5)<br />\n• LK Rottweil (89,4)<br />\n• LK Sigmaringen (78,7)<br />\n• LK Tuttlingen (87,4)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100 (27; +3):<br />\n• Alb-Donau-Kreis (136,5)<br />\n• LK Böblingen (149,2)<br />\n• LK Breisgau-Hochschwarzwald (105,1)<br />\n• LK Calw (111,2)<br />\n• LK Esslingen (145,2)<br />\n• SK Freiburg im Breisgau (118,9)<br />\n• LK Göppingen (115,4)<br />\n• SK Heidelberg (104,7)<br />\n• LK Heilbronn (135,6)<br />\n• Hohenlohekreis (110,1)<br />\n• LK Karlsruhe (131,4)<br />\n• SK Karlsruhe (144,2)<br />\n• LK Konstanz (104,8)<br />\n• LK Lörrach (148,2)<br />\n• LK Ludwigsburg (141,2)<br />\n• Ortenaukreis (125,1)<br />\n• Rems-Murr-Kreis (141,1)<br />\n• LK Reutlingen (110,8)<br />\n• Rhein-Neckar-Kreis (120,2)<br />\n• LK Schwäbisch Hall (106,2)<br />\n• Schwarzwald-Baar-Kreis (102,1)<br />\n• SK Stuttgart (137,1)<br />\n• LK Tübingen (137,3)<br />\n• SK Ulm (144,3)<br />\n• LK Waldshut (120,5)<br />\n• Zollernalbkreis (107,7)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >150 (4; -1)<br />\n• LK Emmendingen (162,3)<br />\n• Enzkreis (151,3)<br />\n• SK Heilbronn (190,4)<br />\n• SK Mannheim (159,0)<br />\n• SK Pforzheim (180,2)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201104_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201104_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1552,
+                    "length": 204
+                }
+            ],
+            "views": 30572,
+            "forwards": 23
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 329,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604430122,
+            "message": "Corona-Bericht für Baden-Württemberg vom 3. November 2020<br />\n<br />\nNeuinfektionen: 2.450 (gesamt: 87.898)<br />\nVerstorbene: 2.055 (+11)<br />\nGenesene: 57.828 (+893)<br />\nAktuell Infizierte: 28.015 (+1.546)<br />\n7-Tage-R-Wert: 1,02<br />\n7-Tage-Inzidenz: 119,6<br />\nGesamtbelegung der Intensivkapazitäten: 75 %<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35 (0):<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50 (15; +1):<br />\n• Stadtkreis Baden-Baden (94,2)<br />\n• Landkreis Biberach (79,5)<br />\n• Bodenseekreis (77,3)<br />\n• Landkreis Freudenstadt (92,2)<br />\n• Stadtkreis Heidelberg (86,1)<br />\n• Landkreis Konstanz (96,7)<br />\n• Main-Tauber-Kreis (66,5)<br />\n• Neckar-Odenwald-Kreis (80,1)<br />\n• Ostalbkreis (76,4)<br />\n• Landkreis Ravensburg (53,3)<br />\n• Landkreis Rottweil (80,1)<br />\n• Schwarzwald-Baar-Kreis (92,7)<br />\n• Landkreis Sigmaringen (74,9)<br />\n• Landkreis Tuttlingen (88,1)<br />\n• Zollernalbkreis (90,8)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100 (24; -2):<br />\n• Alb-Donau-Kreis (143,6)<br />\n• Landkreis Böblingen (146,1)<br />\n• Landkreis Breisgau-Hochschwarzwald (102,0)<br />\n• Landkreis Calw (106,8)<br />\n• Enzkreis (144,3)<br />\n• Stadtkreis Freiburg im Breisgau (129,3)<br />\n• Landkreis Göppingen (116,2)<br />\n• Landkreis Heidenheim (112,2)<br />\n• Landkreis Heilbronn (132,1)<br />\n• Hohenlohekreis (107,4)<br />\n• Landkreis Karlsruhe (119,1)<br />\n• Stadtkreis Karlsruhe (141,6)<br />\n• Landkreis Lörrach (136,8)<br />\n• Landkreis Ludwigsburg (139,9)<br />\n• Ortenaukreis (131,8)<br />\n• Landkreis Rastatt (103,3)<br />\n• Rems-Murr-Kreis (135,5)<br />\n• Landkreis Reutlingen (108,0)<br />\n• Rhein-Neckar-Kreis (114,0)<br />\n• Landkreis Schwäbisch Hall (106,2)<br />\n• Stadtkreis Stuttgart (131,0)<br />\n• Landkreis Tübingen (129,4)<br />\n• Stadtkreis Ulm (134,1)<br />\n• Landkreis Waldshut (122,2)<br />\n<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >150 (5; +1)<br />\n• Landkreis Emmendingen (151,4)<br />\n• Landkreis Esslingen (153,1)<br />\n• Stadtkreis Heilbronn (192,0)<br />\n• Stadtkreis Mannheim (170,3)<br />\n• Stadtkreis Pforzheim (190,5)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201103_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201103_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1790,
+                    "length": 204
+                }
+            ],
+            "views": 31131,
+            "forwards": 30
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 328,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604337121,
+            "message": "Corona-Bericht für Baden-Württemberg vom 2. November 2020<br />\n<br />\nNeuinfektionen: 1.851 (gesamt: 85.448)<br />\nVerstorbene: 2.044 (+14)<br />\nGenesene: 56.935 (+676)<br />\nAktuell Infizierte: 26.469 (+1.161)<br />\n7-Tage-R-Wert: 1,13<br />\n7-Tage-Inzidenz: 116,7<br />\nGesamtbelegung der Intensivkapazitäten: 74 % <br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35 (0):<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50 (14; -4):<br />\n• Landkreis Biberach (83,0)<br />\n• Bodenseekreis (77,3)<br />\n• Landkreis Freudenstadt (91,3)<br />\n• Stadtkreis Heidelberg (86,1)<br />\n• Landkreis Konstanz (82,4)<br />\n• Main-Tauber-Kreis (62,7)<br />\n• Neckar-Odenwald-Kreis (74,5)<br />\n• Ostalbkreis (82,5)<br />\n• Landkreis Ravensburg (57,8)<br />\n• Landkreis Rottweil (86,5)<br />\n• Schwarzwald-Baar-Kreis (79,5)<br />\n• Landkreis Sigmaringen (80,2)<br />\n• Landkreis Tuttlingen (79,6)<br />\n• Zollernalbkreis (94,5)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100 (26; +6):<br />\n• Alb-Donau-Kreis (144,6)<br />\n• Stadtkreis Baden-Baden (105,1)<br />\n• Landkreis Böblingen (135,9)<br />\n• Landkreis Breisgau-Hochschwarzwald (103,2)<br />\n• Landkreis Calw (109,3)<br />\n• Landkreis Emmendingen (136,4)<br />\n• Enzkreis (134,3)<br />\n• Stadtkreis Freiburg im Breisgau (129,8)<br />\n• Landkreis Göppingen (110,4)<br />\n• Landkreis Heidenheim (118,2)<br />\n• Landkreis Heilbronn (130,6)<br />\n• Hohenlohekreis (101,2)<br />\n• Landkreis Karlsruhe (115,7)<br />\n• Stadtkreis Karlsruhe (141,3)<br />\n• Landkreis Lörrach (122,8)<br />\n• Landkreis Ludwigsburg (137,3)<br />\n• Ortenaukreis (130,2)<br />\n• Landkreis Rastatt (120,1)<br />\n• Rems-Murr-Kreis (122,2)<br />\n• Landkreis Reutlingen (117,8)<br />\n• Rhein-Neckar-Kreis (111,6)<br />\n• Landkreis Schwäbisch Hall (101,6)<br />\n• Stadtkreis Stuttgart (123,9)<br />\n• Landkreis Tübingen (137,7)<br />\n• Stadtkreis Ulm (128,6)<br />\n• Landkreis Waldshut (126,3)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >150 (4; -2)<br />\n• Landkreis Esslingen (152,3)<br />\n• Stadtkreis Heilbronn (186,4)<br />\n• Stadtkreis Mannheim (151,6)<br />\n• Stadtkreis Pforzheim (170,7)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201102_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201102_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1791,
+                    "length": 204
+                }
+            ],
+            "views": 32588,
+            "forwards": 25
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 327,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604334426,
+            "message": "Das Kultusministerium hat die Corona-Verordnung für Kitas angepasst. Damit präzisiert das Ministerium die Regelungen für Spaziergänge und Ausflüge im Freien sowie die Nutzung öffentlicher Spielplätze und ähnlicher Einrichtungen. Die Regelungen gelten ab morgen. <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=201102_mes&pk_source=mes&pk_keyword=vokita\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=201102_mes&pk_source=mes&pk_keyword=vokita</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 262,
+                    "length": 193
+                }
+            ],
+            "views": 30488,
+            "forwards": 41
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 326,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604252220,
+            "message": "Corona-Bericht für Baden-Württemberg vom 1. November 2020<br />\n<br />\nNeuinfektionen: 1.263 (gesamt: 83.597)<br />\nVerstorbene: 2.030 (+2)<br />\nGenesene: 56.259 (+643)<br />\nAktuell Infizierte: 25.308 (+618)<br />\n7-Tage-R-Wert: 1,13<br />\n7-Tage-Inzidenz: 116,3<br />\nBelegung der Intensivkapazitäten: 75 %<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35 (0):<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50 (18; -3):<br />\n• Stadtkreis Baden-Baden (94,2)<br />\n• Landkreis Biberach (83,0)<br />\n• Bodenseekreis (60,2)<br />\n• Landkreis Breisgau-Hochschwarzwald (99,8)<br />\n• Landkreis Calw (89,8)<br />\n• Stadtkreis Heidelberg (79,9)<br />\n• Hohenlohekreis (96,8)<br />\n• Landkreis Konstanz (76,1)<br />\n• Main-Tauber-Kreis (58,9)<br />\n• Neckar-Odenwald-Kreis (78,7)<br />\n• Ostalbkreis (86,9)<br />\n• Landkreis Ravensburg (59,2)<br />\n• Landkreis Rottweil (93,7)<br />\n• Landkreis Schwäbisch Hall (97,1)<br />\n• Schwarzwald-Baar-Kreis (82,8)<br />\n• Landkreis Sigmaringen (64,2)<br />\n• Landkreis Tuttlingen (68,2)<br />\n• Zollernalbkreis (81,9)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100 (20; +3):<br />\n• Landkreis Böblingen (127,5)<br />\n• Landkreis Emmendingen (133,4)<br />\n• Enzkreis (133,3)<br />\n• Stadtkreis Freiburg im Breisgau (120,7)<br />\n• Landkreis Freudenstadt (103,2)<br />\n• Landkreis Göppingen (101,5)<br />\n• Landkreis Heidenheim (118,2)<br />\n• Landkreis Heilbronn (120,8)<br />\n• Landkreis Karlsruhe (107,6)<br />\n• Stadtkreis Karlsruhe (132,3)<br />\n• Landkreis Lörrach (116,3)<br />\n• Ortenaukreis (144,1)<br />\n• Landkreis Rastatt (127,9)<br />\n• Rems-Murr-Kreis (130,8)<br />\n• Landkreis Reutlingen (112,5)<br />\n• Rhein-Neckar-Kreis (106,9)<br />\n• Stadtkreis Stuttgart (134,9)<br />\n• Landkreis Tübingen (131,2)<br />\n• Stadtkreis Ulm (129,3)<br />\n• Landkreis Waldshut (110,5)<br />\n<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >150 (6; +/-0)<br />\n• Alb-Donau-Kreis (156,8)<br />\n• Landkreis Esslingen (163,7)<br />\n• Stadtkreis Heilbronn (176,9)<br />\n• Landkreis Ludwigsburg (157,5)<br />\n• Stadtkreis Mannheim (150,3)<br />\n• Stadtkreis Pforzheim (170,7)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201101_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201101_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1780,
+                    "length": 204
+                }
+            ],
+            "views": 31268,
+            "forwards": 29
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 325,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604231828,
+            "message": "Die Sechste Verordnung der Landesregierung zur Änderung der Corona-Verordnung wurde soeben notverkündet. Sie finden hier eine Übersicht der Änderungen und Regelungen für alle Lebensbereiche: <a href=\"https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/?&pk_medium=messenger&pk_campaign=201028_mes&pk_source=mes&pk_keyword=6aenderungsvo\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/?&pk_medium=messenger&pk_campaign=201028_mes&pk_source=mes&pk_keyword=6aenderungsvo</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 191,
+                    "length": 175
+                }
+            ],
+            "views": 32550,
+            "forwards": 153
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 324,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604165521,
+            "message": "Corona-Bericht für Baden-Württemberg vom 31. Oktober 2020<br />\n<br />\nNeuinfektionen: 2.048 (gesamt: 82.334)<br />\nVerstorbene: 2.028 (+7)<br />\nGenesene: 55.616 (+760)<br />\nAktuell Infizierte: 24.690 (+1.281)<br />\n7-Tage-R-Wert: 1,17<br />\n7-Tage-Inzidenz: 123,3<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35 (0; -1):<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50 (21; +2):<br />\n• Stadtkreis Baden-Baden (87,0)<br />\n• Landkreis Biberach (73,5)<br />\n• Bodenseekreis (60,7)<br />\n• Landkreis Breisgau-Hochschwarzwald (99,8)<br />\n• Landkreis Calw (95,5)<br />\n• Landkreis Freudenstadt (93,9)<br />\n• Landkreis Göppingen (83,7)<br />\n• Stadtkreis Heidelberg (85,5)<br />\n• Hohenlohekreis (88,8)<br />\n• Landkreis Konstanz (89,1)<br />\n• Main-Tauber-Kreis (69,5)<br />\n• Neckar-Odenwald-Kreis (82,8)<br />\n• Ostalbkreis (78,0)<br />\n• Landkreis Ravensburg (54,3)<br />\n• Landkreis Rottweil (76,5)<br />\n• Landkreis Schwäbisch Hall (95,0)<br />\n• Schwarzwald-Baar-Kreis (75,3)<br />\n• Landkreis Sigmaringen (67,3)<br />\n• Landkreis Tuttlingen (71,0)<br />\n• Landkreis Waldshut (92,4)<br />\n• Zollernalbkreis (72,3)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100 (17; -5):<br />\n• Landkreis Böblingen (103,9)<br />\n• Landkreis Emmendingen (131,0)<br />\n• Enzkreis (135,8)<br />\n• Stadtkreis Freiburg im Breisgau (116,4)<br />\n• Landkreis Heilbronn (116,4)<br />\n• Landkreis Heidenheim (108,5)<br />\n• Landkreis Karlsruhe (118,2)<br />\n• Stadtkreis Karlsruhe (141,0)<br />\n• Landkreis Lörrach (113,2)<br />\n• Ortenaukreis (135,7)<br />\n• Landkreis Rastatt (109,8)<br />\n• Rems-Murr-Kreis (117,3)<br />\n• Landkreis Reutlingen (107,7)<br />\n• Rhein-Neckar-Kreis (116,2)<br />\n• Stadtkreis Stuttgart (135,9)<br />\n• Landkreis Tübingen (129,0)<br />\n• Stadtkreis Ulm (118,3)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >150 (6; +4)<br />\n• Alb-Donau-Kreis (157,8)<br />\n• Landkreis Esslingen (160,4)<br />\n• Stadtkreis Heilbronn (167,5)<br />\n• Landkreis Ludwigsburg (155,7)<br />\n• Stadtkreis Mannheim (156,1)<br />\n• Stadtkreis Pforzheim (177,0)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201031_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201031_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1741,
+                    "length": 204
+                }
+            ],
+            "views": 31515,
+            "forwards": 29
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 323,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1604080322,
+            "message": "Corona-Bericht für Baden-Württemberg vom 30. Oktober 2020<br />\n<br />\nNeuinfektionen: 2.838 (gesamt: 80.286)<br />\nVerstorbene: 2.021 (+12)<br />\nGenesene: 54.856 (+733)<br />\nAktuell Infizierte: 23.409 (+2.093)<br />\n7-Tage-R-Wert: 1,17<br />\n7-Tage-Inzidenz: 107,0<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35 (1):<br />\n• Landkreis Ravensburg (46,2)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50 (19):<br />\n• Stadtkreis Baden-Baden (70,7)<br />\n• Landkreis Biberach (58,1)<br />\n• Bodenseekreis (59,8)<br />\n• Landkreis Freudenstadt (82,9)<br />\n• Landkreis Göppingen (73,6)<br />\n• Stadtkreis Heidelberg (89,9)<br />\n• Hohenlohekreis (72,8)<br />\n• Landkreis Konstanz (73,0)<br />\n• Main-Tauber-Kreis (64,2)<br />\n• Neckar-Odenwald-Kreis (69,6)<br />\n• Ostalbkreis (83,4)<br />\n• Landkreis Rastatt (92,5)<br />\n• Landkreis Rottweil (83,6)<br />\n• Landkreis Schwäbisch Hall (92,0)<br />\n• Schwarzwald-Baar-Kreis (76,2)<br />\n• Landkreis Sigmaringen (50,4)<br />\n• Landkreis Tuttlingen (71,8)<br />\n• Landkreis Waldshut (93,6)<br />\n• Zollernalbkreis (69,7)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100 (24):<br />\n• Alb-Donau-Kreis (143,6)<br />\n• Landkreis Böblingen (101,8)<br />\n• Landkreis Breisgau-Hochschwarzwald (106,2)<br />\n• Landkreis Calw (101,8)<br />\n• Landkreis Emmendingen (122,0)<br />\n• Enzkreis (140,3)<br />\n• Landkreis Esslingen (150,5)<br />\n• Stadtkreis Freiburg im Breisgau (122,8)<br />\n• Landkreis Heilbronn (110.3)<br />\n• Stadtkreis Heilbronn (147,7)<br />\n• Landkreis Heidenheim (112,2)<br />\n• Landkreis Karlsruhe (108,5)<br />\n• Stadtkreis Karlsruhe (130,1)<br />\n• Landkreis Lörrach (107,1)<br />\n• Landkreis Ludwigsburg (147,2)<br />\n• Stadtkreis Mannheim (149,7)<br />\n• Ortenaukreis (116,5)<br />\n• Stadtkreis Pforzheim (155,6)<br />\n• Rems-Murr-Kreis (107,0)<br />\n• Landkreis Reutlingen (100,0)<br />\n• Rhein-Neckar-Kreis (116,2)<br />\n• Stadtkreis Stuttgart (125,8)<br />\n• Landkreis Tübingen (135,6)<br />\n• Stadtkreis Ulm (119,1)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201030_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201030_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1675,
+                    "length": 204
+                }
+            ],
+            "views": 31390,
+            "forwards": 39
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 322,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1603997521,
+            "message": "Corona-Bericht für Baden-Württemberg vom 29. Oktober 2020<br />\n<br />\nNeuinfektionen: 2.311 (gesamt: 77.448)<br />\nVerstorbene: 2.009 (+10)<br />\nGenesene:  54.123 (+687) <br />\nAktuell Infizierte: 21.316 (+1.614)<br />\n7-Tage-R-Wert: 1,13<br />\n7-Tage-Inzidenz: 99,0<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35:<br />\n• Bodenseekreis (49,2)<br />\n• Landkreis Ravensburg (43,4)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50:<br />\n• Stadtkreis Baden-Baden (67,0)<br />\n• Landkreis Biberach (52,2)<br />\n• Landkreis Freudenstadt (68,5)<br />\n• Landkreis Göppingen (56,6)<br />\n• Hohenlohekreis (55,0)<br />\n• Landkreis Karlsruhe (99,1)<br />\n• Landkreis Konstanz (63,2)<br />\n• Landkreis Lörrach (95,3)<br />\n• Main-Tauber-Kreis (69,5)<br />\n• Neckar-Odenwald-Kreis (62,7)<br />\n• Ostalbkreis (82,5)<br />\n• Landkreis Rastatt (96,4)<br />\n• Landkreis Reutlingen (86,4)<br />\n• Landkreis Rottweil (79,4)<br />\n• Landkreis Schwäbisch Hall (86,4)<br />\n• Landkreis Sigmaringen (59,6)<br />\n• Schwarzwald-Baar-Kreis (80,5)<br />\n• Landkreis Tuttlingen (73,2)<br />\n• Landkreis Waldshut (90,1)<br />\n• Zollernalbkreis (60,2)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >100:<br />\n• Alb-Donau-Kreis (147,7)<br />\n• Landkreis Böblingen (100,8)<br />\n• Landkreis Breisgau-Hochschwarzwald (101,7)<br />\n• Landkreis Calw (101,8)<br />\n• Landkreis Emmendingen (112,4)<br />\n• Enzkreis (134,3)<br />\n• Landkreis Esslingen (111,4)<br />\n• Stadtkreis Freiburg im Breisgau (113,8)<br />\n• Landkreis Heilbronn (117,6)<br />\n• Landkreis Ludwigsburg (119,7)<br />\n• Landkreis Tübingen (122,0)<br />\n• Stadtkreis Heidelberg (101,6)<br />\n• Landkreis Heidenheim (121,3)<br />\n• Stadtkreis Heilbronn (160,4)<br />\n• Stadtkreis Karlsruhe (115,4)<br />\n• Stadtkreis Mannheim (151,3)<br />\n• Ortenaukreis (100,2)<br />\n• Stadtkreis Pforzheim (159,6)<br />\n• Rems-Murr-Kreis (107,2)<br />\n• Rhein-Neckar-Kreis (101,0)<br />\n• Stadtkreis Stuttgart (120,9)<br />\n• Stadtkreis Ulm (118,3)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201029_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201029_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1660,
+                    "length": 204
+                }
+            ],
+            "views": 30885,
+            "forwards": 38
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

@@ -1,0 +1,384 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 290,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602517329,
+            "message": "Corona-Bericht für Baden-Württemberg vom 12. Oktober 2020<br />\n<br />\nNeuinfektionen: 595 (gesamt: 54.925)<br />\nVerstorbene: 1.903 (+2)<br />\nGenesene: 46.462 (+167)<br />\nAktuell Infizierte: 6.560 (+426) <br />\n7-Tage-R-Wert: 1,42<br />\n7-Tage-Inzidenz: 31,5<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35:<br />\n•    Landkreis Böblingen (35,6)<br />\n•    Landkreis Ludwigsburg (42,9)<br />\n•    Ortenaukreis (42,9)<br />\n•    Landkreis Schwäbisch Hall (46,8)<br />\n•    Landkreis Tübingen (38,5)<br />\n•    Landkreis Tuttlingen (36,2)<br />\n•    Stadt Baden-Baden (45,3)<br />\n•    Stadt Heilbronn (45,8)<br />\n•    Stadt Mannheim (46,7)<br />\n•    Stadt Pforzheim (39,7)<br />\n•    Stadt Ulm (39,4)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50:<br />\n•    Landkreis Esslingen (76,6)<br />\n•    Stadt Stuttgart (70,0)<br />\n<br />\n <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201012_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201012_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 706,
+                    "length": 204
+                }
+            ],
+            "views": 25601,
+            "forwards": 158
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 289,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602433924,
+            "message": "Heute gab es in Baden-Württemberg weitere 477 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Gesamtzahl der Infizierten in Baden-Württemberg auf mindestens 54.330 an. Davon sind ungefähr 46.295 Personen (+241) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle bleibt bei 1.901. Derzeit sind geschätzt 6.134 (+236) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. Die 7-Tage-Inzidenz für Baden-Württemberg liegt jetzt bei 28,6 <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201011_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201011_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 489,
+                    "length": 204
+                }
+            ],
+            "views": 24578,
+            "forwards": 5
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 288,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602412921,
+            "message": "Mit der 4. Änderungsverordnung setzt die Landesregierung das Urteil des VGH zum Prostitutionsgewerbe um. Die neue Regelung gilt ab Montag, 12. Oktober 2020: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=201011_mes&pk_source=mes&pk_keyword=4aenderungsvo\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=201011_mes&pk_source=mes&pk_keyword=4aenderungsvo</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 157,
+                    "length": 200
+                }
+            ],
+            "views": 24216,
+            "forwards": 12
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 287,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602349620,
+            "message": "Heute gab es in Baden-Württemberg weitere 520 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Gesamtzahl der Infizierten in Baden-Württemberg auf mindestens 53.853 an. Davon sind ungefähr 46.054 Personen (+284) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle ist auf 1.901 gestiegen (+2). Derzeit sind geschätzt  5.898 (+234) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201010_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201010_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 439,
+                    "length": 204
+                }
+            ],
+            "views": 24153,
+            "forwards": 8
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 286,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602259025,
+            "message": "Liebe Mitbürgerinnen und Mitbürger,<br />\n<br />\ndie Zahl der Infizierten steigt wieder rasant. Mir bereitet diese Entwicklung sehr große Sorge. Und wir rufen Sie alle auf: Seien Sie vorsichtig! Dabei verstehe ich sehr gut: Nach mehr als einem halben Jahr mit Corona sind viele von uns pandemie-müde geworden. Wir sehnen uns nach Normalität. Und ich sage Ihnen offen: Mir geht es ganz genauso. Wir tun alles dafür einen zweiten Lockdown zu vermeiden. <br />\n<br />\nWir haben es selbst in der Hand, ob wir mit vergleichsweise milden Maßnahmen durch die nächsten Monate kommen. Aber dafür braucht es jede und jeden von uns. Freiheit gibt es nicht ohne Verantwortung. Und das bedeutet, dass wir in der Pandemie auch mal etwas lassen sollten, obwohl es erlaubt ist.Nun kommt es auf uns alle an – auf jede und jeden einzelnen. Die Lage ist ernst. Aber im Frühjahr haben wir gesehen, was wir schaffen können, wenn wir zusammenhalten. Lassen Sie uns nun auch die zweite Corona-Welle gemeinsam brechen!<br />\n<br />\nIhr Winfried Kretschmann<br />\n<br />\n<a href=\"https://www.swr.de/swraktuell/baden-wuerttemberg/kretschmann-rede-corona-lage-100.html\" target=\"_blank\" rel=\"nofollow\">https://www.swr.de/swraktuell/baden-wuerttemberg/kretschmann-rede-corona-lage-100.html</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 998,
+                    "length": 86
+                }
+            ],
+            "views": 25840,
+            "forwards": 95
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 285,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602258426,
+            "message": "Heute gab es in Baden-Württemberg weitere 527 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Gesamtzahl der Infizierten in Baden-Württemberg auf mindestens 53.333 an. Davon sind ungefähr 45.770 Personen (+260) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle ist auf 1.899 gestiegen (+1). Derzeit sind geschätzt 5.664 (+266) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201008_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201008_mes&pk_source=mes&pk_keyword=infektionen</a><br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz von mehr als 35: Landkreis Schwäbisch Hall (37,6), Stadt Stuttgart (41,2).<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz von mehr als 50: Landkreis Esslingen (56,3)<br />\nBitte informieren Sie sich vor Ort über mögliche weitere lokale Einschränkungen.",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 438,
+                    "length": 204
+                }
+            ],
+            "views": 22830,
+            "forwards": 23
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 284,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602175623,
+            "message": "Heute gab es in Baden-Württemberg weitere 584 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Gesamtzahl der Infizierten in Baden-Württemberg auf mindestens 52.806 an. Davon sind ungefähr 45.510 Personen (+326) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle bleibt bei 1.898. Derzeit sind geschätzt 5.398 (+258) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201008_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201008_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 426,
+                    "length": 204
+                }
+            ],
+            "views": 22648,
+            "forwards": 8
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 283,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602139926,
+            "message": "Die Lenkungsgruppe hat gestern Beschlüsse zu folgenden Themen gefasst: Beherbergungsverbot, Luftfilter, Beschränkungen privater Feiern, mehr Schulbusse, Entschädigungsansprüche für Eltern.<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/lenkungsgruppe-corona/?&pk_medium=messenger&pk_campaign=201008_mes&pk_source=mes&pk_keyword=lenkungsgruppe\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/lenkungsgruppe-corona/?&pk_medium=messenger&pk_campaign=201008_mes&pk_source=mes&pk_keyword=lenkungsgruppe</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 189,
+                    "length": 176
+                }
+            ],
+            "views": 22940,
+            "forwards": 13
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 282,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602087424,
+            "message": "Heute gab es in Baden-Württemberg weitere 652 bestätigte Infektionen mit dem Coronavirus. Damit steigt die Gesamtzahl der Infizierten in Baden-Württemberg auf mindestens 52.222 an. Davon sind ungefähr 45.184 Personen (+252) bereits wieder von ihrer Covid-19-Erkrankung genesen. Die Zahl der Covid-19-Todesfälle ist auf 1.898 gestiegen (+4). Derzeit sind geschätzt 5.140 (+396) Menschen im Land mit dem Coronavirus (SARS-CoV-2) infiziert. <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201007_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201007_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 438,
+                    "length": 204
+                }
+            ],
+            "views": 22801,
+            "forwards": 42
+        },
+        {
+            "_": "message",
+            "flags": 17408,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 281,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602079931,
+            "message": "KORREKTUR! In unserer Nachricht zur 3. Änderungsverordnung haben wir geschrieben, dass die Änderungen am dem 14. Oktober gelten. Das war falsch. Die Änderungen gelten ab Sonntag, 11. Oktober 2020. Wir bitten den Fehler zu entschuldigen.",
+            "views": 22041,
+            "forwards": 12
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

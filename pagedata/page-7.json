@@ -1,0 +1,391 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1051,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1651591957,
+            "message": "Corona-Bericht für Baden-Württemberg 3. Mai 2022<br />\n<br />\nNeuinfektionen: 12.665 (gesamt: 3.515.839)<br />\nVerstorbene: 15.808 (+22)<br />\nGenesene: 3.165.047 (+16.606)<br />\nAktuell Infizierte: 334.984 (-3.963)<br />\n<br />\n7-Tage-Inzidenz gesamt: 536,1 (-42,2)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 3,6 (+/-0,0)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 147 (+/-0)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 6,7 % (+/-0,0)<br />\n<br />\n7-Tage-R-Wert: 0,80<br />\n<br />\nCorona-Impfungen:<br />\n• Impfquote mindestens einmal geimpft: 75,1 % (+0,0)<br />\n• Impfquote grundimmunisiert: 73,8 % (+0,0)<br />\n• Impfquote Auffrischimpfungen: 60,9 % (+0,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 500:<br />\n• LK Alb-Donau-Kreis (498,0)<br />\n• SK Baden-Baden (463,5)<br />\n• LK Böblingen (469,1)<br />\n• LK Calw (473,9)<br />\n• LK Esslingen (485,7)<br />\n• LK Göppingen (324,6)<br />\n• LK Heidenheim (362,9)<br />\n• SK Heilbronn (374,8)<br />\n• LK Konstanz (395,6)<br />\n• LK Lörrach (374,5)<br />\n• LK Ludwigsburg (429,9)<br />\n• LK Ortenaukreis (488,2)<br />\n• SK Pforzheim (431,7)<br />\n• LK Reutlingen (397,6)<br />\n• LK Rottweil (321,0)<br />\n• LK Schwäbisch Hall (471,5)<br />\n• LK Schwarzwald-Baar-Kreis (384,3)<br />\n• LK Sigmaringen (485,7)<br />\n• LK Tuttlingen (420,0)<br />\n• SK Ulm (440,6)<br />\n• LK Waldshut (351,0)<br />\n• LK Zollernalbkreis (464,5)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 500:<br />\n• LK Biberach (582,0)<br />\n• LK Bodenseekreis (591,1)<br />\n• LK Breisgau-Hochschwarzwald (587,1)<br />\n• LK Emmendingen (725,2)<br />\n• LK Enzkreis (531,7)<br />\n• SK Freiburg im Breisgau (653,0)<br />\n• LK Freudenstadt (564,4)<br />\n• SK Heidelberg (524,1)<br />\n• LK Heilbronn (532,4)<br />\n• LK Hohenlohekreis (580,9)<br />\n• LK Karlsruhe (652,8)<br />\n• SK Karlsruhe (593,6)<br />\n• LK Main-Tauber-Kreis (576,6)<br />\n• SK Mannheim (613,5)<br />\n• LK Neckar-Odenwald-Kreis (548,0)<br />\n• LK Ostalbkreis (641,4)<br />\n• LK Rastatt (580,8)<br />\n• LK Ravensburg (577,5)<br />\n• LK Rems-Murr-Kreis (820,5)<br />\n• LK Rhein-Neckar-Kreis (621,5)<br />\n• SK Stuttgart (682,8)<br />\n• LK Tübingen (632,9)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1843,
+                    "length": 19
+                }
+            ],
+            "views": 65827,
+            "forwards": 16
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1050,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1651510656,
+            "message": "Auch Baden-Württemberg ändert die Isolations- und Quarantäneregeln im Land: <a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-passt-quarantaene-und-isolationsregeln-an/\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-passt-quarantaene-und-isolationsregeln-an/</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 76,
+                    "length": 120
+                }
+            ],
+            "views": 65765,
+            "forwards": 36
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1049,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1651505259,
+            "message": "Corona-Bericht für Baden-Württemberg 2. Mai 2022<br />\n<br />\nNeuinfektionen: 15.564 (gesamt: 3.503.174)<br />\nVerstorbene: 15.786 (+29)<br />\nGenesene: 3.148.441 (+31.747)<br />\nAktuell Infizierte: 338.947 (-16.212)<br />\n<br />\n7-Tage-Inzidenz gesamt: 578,3 (-64,9)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 3,6 (-0,6)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 147 (-3)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 6,7 % (-0,1)<br />\n<br />\n7-Tage-R-Wert: 0,75<br />\n<br />\nCorona-Impfungen:<br />\n• Impfquote mindestens einmal geimpft: 75,1 % (+0,0)<br />\n• Impfquote grundimmunisiert: 73,8 % (+0,0)<br />\n• Impfquote Auffrischimpfungen: 60,9 % (+0,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 500:<br />\n• LK Böblingen (465,3)<br />\n• LK Calw (499,5)<br />\n• LK Göppingen (357,1)<br />\n• LK Heidenheim (396,8)<br />\n• SK Heilbronn (418,3)<br />\n• LK Konstanz (496,0)<br />\n• LK Lörrach (457,5)<br />\n• LK Ludwigsburg (465,5)<br />\n• LK Ortenaukreis (498,6)<br />\n• SK Pforzheim (492,0)<br />\n• LK Reutlingen (424,4)<br />\n• LK Rottweil (345,3)<br />\n• LK Schwarzwald-Baar-Kreis (398,4)<br />\n• LK Tuttlingen (427,7)<br />\n• LK Waldshut (337,0)<br />\n• LK Zollernalbkreis (363,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 500:<br />\n• LK Alb-Donau-Kreis (554,0)<br />\n• SK Baden-Baden (519,4)<br />\n• LK Biberach (637,7)<br />\n• LK Bodenseekreis (605,3)<br />\n• LK Breisgau-Hochschwarzwald (564,8)<br />\n• LK Emmendingen (795,9)<br />\n• LK Enzkreis (601,2)<br />\n• LK Esslingen (500,4)<br />\n• SK Freiburg im Breisgau (633,1)<br />\n• LK Freudenstadt (585,5)<br />\n• SK Heidelberg (553,7)<br />\n• LK Heilbronn (625,1)<br />\n• LK Hohenlohekreis (666,0)<br />\n• LK Karlsruhe (732,9)<br />\n• SK Karlsruhe (640,3)<br />\n• LK Main-Tauber-Kreis (641,4)<br />\n• SK Mannheim (682,2)<br />\n• LK Neckar-Odenwald-Kreis (608,5)<br />\n• LK Ostalbkreis (625,5)<br />\n• LK Rastatt (672,2)<br />\n• LK Ravensburg (607,9)<br />\n• LK Rems-Murr-Kreis (866,9)<br />\n• LK Rhein-Neckar-Kreis (670,9)<br />\n• LK Schwäbisch Hall (514,5)<br />\n• LK Sigmaringen (560,5)<br />\n• SK Stuttgart (826,4)<br />\n• LK Tübingen (623,3)<br />\n• SK Ulm (504,7)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1838,
+                    "length": 19
+                }
+            ],
+            "views": 66413,
+            "forwards": 15
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1048,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1651246358,
+            "message": "Corona-Bericht für Baden-Württemberg 29. April 2022<br />\n<br />\nNeuinfektionen: 10.194 (gesamt: 3.487.610)<br />\nVerstorbene: 15.757 (+10)<br />\nGenesene: 3.116.694 (+27.023)<br />\nAktuell Infizierte: 355.159 (-16.839)<br />\n<br />\n7-Tage-Inzidenz gesamt: 643,2 (-41,5)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 4,2 (-0,1)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 150 (-11)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 6,8 % (-0,5)<br />\n<br />\n7-Tage-R-Wert: 1,02<br />\n<br />\nCorona-Impfungen:<br />\n• Impfquote mindestens einmal geimpft: 75,1 %<br />\n• Impfquote grundimmunisiert: 73,8 %<br />\n• Impfquote Auffrischimpfungen: 60,8 %<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 500:<br />\n• LK Göppingen (411,9)<br />\n• LK Heidenheim (476,6)<br />\n• SK Heilbronn (483,2)<br />\n• LK Lörrach (452,7)<br />\n• LK Reutlingen (487,3)<br />\n• LK Rottweil (407,4)<br />\n• LK Schwarzwald-Baar-Kreis (392,7)<br />\n• LK Tuttlingen (427,0)<br />\n• LK Waldshut (425,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 500:<br />\n• LK Alb-Donau-Kreis (604,4)<br />\n• SK Baden-Baden (539,2)<br />\n• LK Biberach (666,5)<br />\n• LK Böblingen (574,2)<br />\n• LK Bodenseekreis (643,0)<br />\n• LK Breisgau-Hochschwarzwald (681,5)<br />\n• LK Calw (567,0)<br />\n• LK Emmendingen (825,8)<br />\n• LK Enzkreis (690,4)<br />\n• LK Esslingen (579,3)<br />\n• SK Freiburg im Breisgau (722,7)<br />\n• LK Freudenstadt (683,5)<br />\n• SK Heidelberg (583,3)<br />\n• LK Heilbronn (681,9)<br />\n• LK Hohenlohekreis (668,6)<br />\n• LK Karlsruhe (797,1)<br />\n• SK Karlsruhe (695,1)<br />\n• LK Konstanz (527,1)<br />\n• LK Ludwigsburg (544,1)<br />\n• LK Main-Tauber-Kreis (661,0)<br />\n• SK Mannheim (711,6)<br />\n• LK Neckar-Odenwald-Kreis (718,4)<br />\n• LK Ortenaukreis (611,7)<br />\n• LK Ostalbkreis (683,4)<br />\n• SK Pforzheim (584,8)<br />\n• LK Rastatt (692,0)<br />\n• LK Ravensburg (658,6)<br />\n• LK Rems-Murr-Kreis (902,0)<br />\n• LK Rhein-Neckar-Kreis (706,3)<br />\n• LK Schwäbisch Hall (660,1)<br />\n• LK Sigmaringen (587,3)<br />\n• SK Stuttgart (927,5)<br />\n• LK Tübingen (700,3)<br />\n• SK Ulm (533,2)<br />\n• LK Zollernalbkreis (585,7)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1821,
+                    "length": 19
+                }
+            ],
+            "views": 76541,
+            "forwards": 15
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1047,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1651166554,
+            "message": "Corona-Bericht für Baden-Württemberg 28. April 2022<br />\n<br />\nNeuinfektionen: 12.286 (gesamt: 3.477.416)<br />\nVerstorbene: 15.747 (+21)<br />\nGenesene: 3.089.671 (+31.508)<br />\nAktuell Infizierte: 371.998 (-19.243)<br />\n<br />\n7-Tage-Inzidenz gesamt: 684,7 (-53,4)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 4,3 (-0,2)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 161 (-11)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 7,3 % (-0,5)<br />\n<br />\n7-Tage-R-Wert: 1,03<br />\n<br />\nCorona-Impfungen:<br />\n• Impfquote mindestens einmal geimpft: 74,1 % (+0,0)<br />\n• Impfquote grundimmunisiert: 74,3 % (+0,0)<br />\n• Impfquote Auffrischimpfungen: 57,4 % (+0,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 500:<br />\n• LK Göppingen (428,9)<br />\n• LK Lörrach (477,6)<br />\n• LK Rottweil (460,9)<br />\n• LK Schwarzwald-Baar-Kreis (383,8)<br />\n• LK Tuttlingen (431,2)<br />\n• LK Waldshut (472,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 500:<br />\n• LK Alb-Donau-Kreis (633,2)<br />\n• SK Baden-Baden (598,7)<br />\n• LK Biberach (787,6)<br />\n• LK Böblingen (636,3)<br />\n• LK Bodenseekreis (721,0)<br />\n• LK Breisgau-Hochschwarzwald (712,1)<br />\n• LK Calw (619,4)<br />\n• LK Emmendingen (842,6)<br />\n• LK Enzkreis (746,4)<br />\n• LK Esslingen (608,1)<br />\n• SK Freiburg im Breisgau (724,4)<br />\n• LK Freudenstadt (763,7)<br />\n• SK Heidelberg (647,0)<br />\n• LK Heidenheim (536,1)<br />\n• LK Heilbronn (718,9)<br />\n• SK Heilbronn (521,9)<br />\n• LK Hohenlohekreis (811,4)<br />\n• LK Karlsruhe (858,4)<br />\n• SK Karlsruhe (743,1)<br />\n• LK Konstanz (565,7)<br />\n• LK Ludwigsburg (563,5)<br />\n• LK Main-Tauber-Kreis (724,3)<br />\n• SK Mannheim (795,2)<br />\n• LK Neckar-Odenwald-Kreis (730,2)<br />\n• LK Ortenaukreis (591,6)<br />\n• LK Ostalbkreis (742,3)<br />\n• SK Pforzheim (618,2)<br />\n• LK Rastatt (730,7)<br />\n• LK Ravensburg (755,2)<br />\n• LK Rems-Murr-Kreis (944,1)<br />\n• LK Reutlingen (556,2)<br />\n• LK Rhein-Neckar-Kreis (771,4)<br />\n• LK Schwäbisch Hall (701,0)<br />\n• LK Sigmaringen (637,7)<br />\n• SK Stuttgart (922,1)<br />\n• LK Tübingen (760,7)<br />\n• SK Ulm (558,5)<br />\n• LK Zollernalbkreis (592,5)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1842,
+                    "length": 19
+                }
+            ],
+            "views": 71220,
+            "forwards": 13
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1046,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1651074456,
+            "message": "Corona-Bericht für Baden-Württemberg 27. April 2022<br />\n<br />\nNeuinfektionen: 16.141 (gesamt: 3.465.130)<br />\nVerstorbene: 15.726 (+21)<br />\nGenesene: 3.058.163 (+33.203)<br />\nAktuell Infizierte: 391.241 (-17.083)<br />\n<br />\n7-Tage-Inzidenz gesamt: 738,1 (-58,0)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 4,5 (-0,1)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 172 (+3)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 7,8 % (+0,1)<br />\n<br />\n7-Tage-R-Wert: 1,04<br />\n<br />\nCorona-Impfungen:<br />\n• Impfquote mindestens einmal geimpft: 74,1 % (+0,0)<br />\n• Impfquote grundimmunisiert: 74,3 % (+0,0)<br />\n• Impfquote Auffrischimpfungen: 57,4 % (+0,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 500:<br />\n• LK Göppingen (484,6)<br />\n• LK Konstanz (499,9)<br />\n• LK Rottweil (473,0)<br />\n• LK Schwarzwald-Baar-Kreis (445,8)<br />\n• LK Tuttlingen (454,5)<br />\n• LK Waldshut (458,4)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 500 und 1.000:<br />\n• LK Alb-Donau-Kreis (699,3)<br />\n• SK Baden-Baden (708,8)<br />\n• LK Biberach (908,3)<br />\n• LK Böblingen (660,5)<br />\n• LK Bodenseekreis (732,4)<br />\n• LK Breisgau-Hochschwarzwald (759,2)<br />\n• LK Calw (738,1)<br />\n• LK Emmendingen (848,6)<br />\n• LK Enzkreis (893,6)<br />\n• LK Esslingen (640,2)<br />\n• SK Freiburg im Breisgau (724,0)<br />\n• LK Freudenstadt (865,1)<br />\n• SK Heidelberg (681,6)<br />\n• LK Heidenheim (612,1)<br />\n• LK Heilbronn (876,8)<br />\n• SK Heilbronn (555,9)<br />\n• LK Hohenlohekreis (858,4)<br />\n• LK Karlsruhe (917,1)<br />\n• SK Karlsruhe (760,0)<br />\n• LK Lörrach (651,1)<br />\n• LK Ludwigsburg (587,6)<br />\n• LK Main-Tauber-Kreis (817,7)<br />\n• SK Mannheim (802,3)<br />\n• LK Neckar-Odenwald-Kreis (815,0)<br />\n• LK Ortenaukreis (659,1)<br />\n• LK Ostalbkreis (810,1)<br />\n• SK Pforzheim (761,0)<br />\n• LK Rastatt (861,3)<br />\n• LK Ravensburg (769,5)<br />\n• LK Reutlingen (615,0)<br />\n• LK Rhein-Neckar-Kreis (842,3)<br />\n• LK Schwäbisch Hall (775,3)<br />\n• LK Sigmaringen (683,5)<br />\n• SK Stuttgart (938,0)<br />\n• LK Tübingen (801,4)<br />\n• SK Ulm (548,2)<br />\n• LK Zollernalbkreis (692,6)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 1.000:<br />\n• LK Rems-Murr-Kreis (1.008,9)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1918,
+                    "length": 19
+                }
+            ],
+            "views": 68828,
+            "forwards": 15
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1045,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1651074157,
+            "message": "Die Landesregierung hat die aktuelle Corona-Verordnung des Landes bis 30. Mai verlängert: <a href=\"https://t1p.de/hz8b8\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/hz8b8</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 90,
+                    "length": 20
+                }
+            ],
+            "views": 64526,
+            "forwards": 18
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1044,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1650988958,
+            "message": "Corona-Bericht für Baden-Württemberg 26. April 2022<br />\n<br />\nNeuinfektionen: 17.772 (gesamt: 3.448.989)<br />\nVerstorbene: 15.705 (+28)<br />\nGenesene: 3.024.960 (+27.681)<br />\nAktuell Infizierte: 408.324 (-9.937)<br />\n<br />\n7-Tage-Inzidenz gesamt: 796,1 (-38,4)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 4,6 (-0,8)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 169 (+2)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 7,7 % (+0,1)<br />\n<br />\n7-Tage-R-Wert: 1,08<br />\n<br />\nCorona-Impfungen:<br />\n• Impfquote mindestens einmal geimpft: 74,1 % (+0,0)<br />\n• Impfquote grundimmunisiert: 74,3 % (+0,0)<br />\n• Impfquote Auffrischimpfungen: 57,4 % (+0,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 500:<br />\n• LK Heidenheim (489,4)<br />\n• LK Schwarzwald-Baar-Kreis (448,2)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 500 und 1.000:<br />\n• LK Alb-Donau-Kreis (830,0)<br />\n• SK Baden-Baden (898,1)<br />\n• LK Böblingen (716,0)<br />\n• LK Bodenseekreis (687,0)<br />\n• LK Breisgau-Hochschwarzwald (784,2)<br />\n• LK Calw (902,9)<br />\n• LK Emmendingen (869,0)<br />\n• LK Esslingen (684,9)<br />\n• SK Freiburg im Breisgau (759,1)<br />\n• LK Freudenstadt (889,6)<br />\n• LK Göppingen (536,0)<br />\n• SK Heidelberg (720,0)<br />\n• LK Heilbronn (876,0)<br />\n• SK Heilbronn (633,4)<br />\n• LK Hohenlohekreis (913,4)<br />\n• SK Karlsruhe (838,7)<br />\n• LK Konstanz (598,5)<br />\n• LK Lörrach (680,4)<br />\n• LK Ludwigsburg (624,1)<br />\n• LK Main-Tauber-Kreis (818,5)<br />\n• SK Mannheim (839,1)<br />\n• LK Neckar-Odenwald-Kreis (954,1)<br />\n• LK Ortenaukreis (707,2)<br />\n• LK Ostalbkreis (825,7)<br />\n• SK Pforzheim (824,5)<br />\n• LK Ravensburg (850,0)<br />\n• LK Reutlingen (680,4)<br />\n• LK Rhein-Neckar-Kreis (933,5)<br />\n• LK Rottweil (556,5)<br />\n• LK Schwäbisch Hall (769,7)<br />\n• LK Sigmaringen (769,8)<br />\n• SK Stuttgart (916,2)<br />\n• LK Tübingen (945,9)<br />\n• LK Tuttlingen (575,9)<br />\n• SK Ulm (611,5)<br />\n• LK Waldshut (543,7)<br />\n• LK Zollernalbkreis (772,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 1.000:<br />\n• LK Biberach (1.020,0)<br />\n• LK Enzkreis (1.020,3)<br />\n• LK Karlsruhe (1.076,6)<br />\n• LK Rastatt (1.109,0)<br />\n• LK Rems-Murr-Kreis (1.000,5)<br />\n<br />\nErgänzender Hinweis: Das Landesgesundheitsamt hat im COVID-19-Tagesbericht vom gestrigen Montag, 25. April 2022, die Werte der 7-Tage-Inzidenz und der 7-Tage-Hospitalisierungsinzidenz korrigiert. Eine technische Umstellung hatte zu einer fehlerhaften Berechnung geführt.<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 2197,
+                    "length": 19
+                }
+            ],
+            "views": 67737,
+            "forwards": 18
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1043,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1650899560,
+            "message": "Corona-Bericht für Baden-Württemberg 25. April 2022<br />\n<br />\nNeuinfektionen: 22.385 (gesamt: 3.431.217)<br />\nVerstorbene: 15.677 (+33)<br />\nGenesene: 2.997.279 (+51.566)<br />\nAktuell Infizierte: 418.261 (-29.214)<br />\n<br />\n7-Tage-Inzidenz gesamt: 642,1 (-104,1)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 3,5 (-1,4)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 167 (-4)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 7,6 % (-0,3)<br />\n<br />\n7-Tage-R-Wert: 0,93<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 74,1 % (+0,0)<br />\nImpfquote grundimmunisiert: 74,3 % (+0,0)<br />\nImpfquote Auffrischimpfungen: 57,4 % (+0,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 500:<br />\n• LK Göppingen (413,5)<br />\n• LK Heidenheim (489,4)<br />\n• LK Konstanz (446,5)<br />\n• LK Rottweil (445,2)<br />\n• LK Schwarzwald-Baar-Kreis (361,2)<br />\n• LK Tuttlingen (452,4)<br />\n• LK Waldshut (400,0)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 500:<br />\n• LK Alb-Donau-Kreis (696,3)<br />\n• SK Baden-Baden (746,6)<br />\n• LK Biberach (844,0)<br />\n• LK Böblingen (596,8)<br />\n• LK Bodenseekreis (556,2)<br />\n• LK Breisgau-Hochschwarzwald (565,9)<br />\n• LK Calw (766,8)<br />\n• LK Emmendingen (682,6)<br />\n• LK Enzkreis (837,0)<br />\n• LK Esslingen (547,2)<br />\n• SK Freiburg im Breisgau (569,8)<br />\n• LK Freudenstadt (774,7)<br />\n• SK Heidelberg (577,0)<br />\n• LK Heilbronn (772,6)<br />\n• SK Heilbronn (506,1)<br />\n• LK Hohenlohekreis (735,2)<br />\n• LK Karlsruhe (866,5)<br />\n• SK Karlsruhe (679,2)<br />\n• LK Lörrach (521,8)<br />\n• LK Ludwigsburg (503,0)<br />\n• LK Main-Tauber-Kreis (667,8)<br />\n• SK Mannheim (677,7)<br />\n• LK Neckar-Odenwald-Kreis (746,2)<br />\n• LK Ortenaukreis (556,9)<br />\n• LK Ostalbkreis (692,0)<br />\n• SK Pforzheim (668,2)<br />\n• LK Rastatt (911,3)<br />\n• LK Ravensburg (683,8)<br />\n• LK Rems-Murr-Kreis (823,3)<br />\n• LK Reutlingen (553,4)<br />\n• LK Rhein-Neckar-Kreis (752,2)<br />\n• LK Schwäbisch Hall (651,5)<br />\n• LK Sigmaringen (595,7)<br />\n• SK Stuttgart (689,5)<br />\n• LK Tübingen (780,4)<br />\n• SK Ulm (512,6)<br />\n• LK Zollernalbkreis (645,7)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1836,
+                    "length": 19
+                }
+            ],
+            "views": 69257,
+            "forwards": 18
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 1042,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1650642758,
+            "message": "Corona-Bericht für Baden-Württemberg 22. April 2022<br />\n<br />\nNeuinfektionen: 15.930 (gesamt: 3.408.832)<br />\nVerstorbene: 15.644 (+21)<br />\nGenesene: 2.945.713 (+34.140)<br />\nAktuell Infizierte: 447.475 (-18.231)<br />\n<br />\n7-Tage-Inzidenz gesamt: 746,2 (+76,7)<br />\n<br />\n7-Tage-Hospitalisierungsinzidenz gesamt: 4,9 (+0,7)<br />\nCOVID-19-Fälle aktuell auf Intensivstation (AIB): 171 (-11)<br />\nAnteil COVID-19-Belegung an Gesamtzahl der betreibbaren Intensivbetten: 7,9 % (-0,4)<br />\n<br />\n7-Tage-R-Wert: 0,90<br />\n<br />\nCorona-Impfungen:<br />\nImpfquote mindestens einmal geimpft: 74,1 % (+0,1)<br />\nImpfquote grundimmunisiert: 74,3 % (+0,0)<br />\nImpfquote Auffrischimpfungen: 57,4 % (+0,1)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz unter 500:<br />\n• LK Schwarzwald-Baar-Kreis (411,5)<br />\n• LK Tuttlingen (481,4)<br />\n• LK Waldshut (461,9)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz zwischen 500 und 1.000:<br />\n• LK Alb-Donau-Kreis (791,6)<br />\n• SK Baden-Baden (836,8)<br />\n• LK Biberach (938,9)<br />\n• LK Böblingen (852,1)<br />\n• LK Bodenseekreis (623,7)<br />\n• LK Breisgau-Hochschwarzwald (658,4)<br />\n• LK Calw (824,2)<br />\n• LK Emmendingen (815,6)<br />\n• LK Enzkreis (959,2)<br />\n• LK Esslingen (711,7)<br />\n• SK Freiburg im Breisgau (687,6)<br />\n• LK Freudenstadt (684,3)<br />\n• LK Göppingen (558,4)<br />\n• SK Heidelberg (677,8)<br />\n• LK Heidenheim (587,3)<br />\n• LK Heilbronn (962,0)<br />\n• SK Heilbronn (607,3)<br />\n• LK Hohenlohekreis (647,4)<br />\n• LK Karlsruhe (998,8)<br />\n• SK Karlsruhe (798,2)<br />\n• LK Konstanz (512,1)<br />\n• LK Lörrach (655,9)<br />\n• LK Ludwigsburg (616,0)<br />\n• LK Main-Tauber-Kreis (656,4)<br />\n• SK Mannheim (766,8)<br />\n• LK Ortenaukreis (614,2)<br />\n• LK Ostalbkreis (862,2)<br />\n• SK Pforzheim (723,7)<br />\n• LK Ravensburg (861,2)<br />\n• LK Rems-Murr-Kreis (895,9)<br />\n• LK Reutlingen (699,1)<br />\n• LK Rhein-Neckar-Kreis (869,5)<br />\n• LK Rottweil (527,9)<br />\n• LK Schwäbisch Hall (623,2)<br />\n• LK Sigmaringen (759,9)<br />\n• SK Stuttgart (704,9)<br />\n• LK Tübingen (906,0)<br />\n• SK Ulm (682,7)<br />\n• LK Zollernalbkreis (635,7)<br />\n<br />\nStadt- und Landkreise mit einer 7-Tage-Inzidenz über 1.000:<br />\n• LK Neckar-Odenwald-Kreis (1.004,9)<br />\n• LK Rastatt (1.013,0)<br />\n<br />\n<a href=\"https://t1p.de/xslv\" target=\"_blank\" rel=\"nofollow\">https://t1p.de/xslv</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1915,
+                    "length": 19
+                }
+            ],
+            "views": 81200,
+            "forwards": 23
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}

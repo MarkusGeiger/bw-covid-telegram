@@ -1,0 +1,391 @@
+{
+    "_": "messages.channelMessages",
+    "flags": 0,
+    "inexact": false,
+    "pts": 1119,
+    "count": 1104,
+    "messages": [
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 300,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1603018020,
+            "message": "Im Zuge der Ausrufung der 3. Pandemiestufe für ganz Baden-Württemberg haben wir die Corona-Verordnung des Landes angepasst und notverkündet. Die Änderungen treten ab dem 19. Oktober 2020 in Kraft. Die neue Verordnung und einen Überblick über die Änderungen finden Sie hier:  <a href=\"https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/aktuelle-corona-verordnung-des-landes-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201018_mes&pk_source=mes&pk_keyword=5aenderungvo\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/aktuelle-corona-verordnung-des-landes-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201018_mes&pk_source=mes&pk_keyword=5aenderungvo</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 275,
+                    "length": 209
+                }
+            ],
+            "views": 27759,
+            "forwards": 123
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 299,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602957120,
+            "message": "Corona-Bericht für Baden-Württemberg vom 17. Oktober 2020<br />\n<br />\nNeuinfektionen: 725 (gesamt: 59.365)<br />\nVerstorbene: 1.928 (+1)<br />\nGenesene: 48.236 (+418)<br />\nAktuell Infizierte: 9.201 (+306)<br />\n7-Tage-R-Wert: 1,37<br />\n7-Tage-Inzidenz: 42,9<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35:<br />\n•    Landkreis Böblingen (48,4)<br />\n•    Landkreis Breisgau-Hochschwarzwald (40,6)<br />\n•    Landkreis Calw (46,5)<br />\n•    Landkreis Emmendingen (43,9)<br />\n•    Landkreis Freudenstadt (39,7)<br />\n•    Neckar-Odenwald-Kreis (42,5)<br />\n•    Ortenaukreis (35,7)<br />\n•    Ostalbkreis (40,4)<br />\n•    Rems-Murr-Kreis (43,3)<br />\n•    Stadtkreis Freiburg im Breisgau (42,8)<br />\n•    Stadtkreis Heidelberg (39,6)<br />\n•    Stadtkreis Ulm (47,3)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50:<br />\n•    Alb-Donau-Kreis (63,9)<br />\n•    Landkreis Esslingen (74,9)<br />\n•    Landkreis Göppingen (50,7)<br />\n•    Landkreis Ludwigsburg (72,6)<br />\n•    Landkreis Reutlingen (51,2)<br />\n•    Landkreis Schwäbisch Hall (55,9)<br />\n•    Schwarzwald-Baar-Kreis (58,8)<br />\n•    Landkreis Tübingen (65,6)<br />\n•    Stadtkreis Baden-Baden (54,4)<br />\n•    Stadtkreis Heilbronn (82,9)<br />\n•    Stadtkreis Mannheim (58,6)<br />\n•    Stadtkreis Stuttgart (69,2)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201017_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201017_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1103,
+                    "length": 204
+                }
+            ],
+            "views": 27243,
+            "forwards": 77
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 298,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602955620,
+            "message": "Die Landesregierung hat heute die 3. Pandemiestufe für Baden-Württemberg ausgerufen. Sie tritt am Montag, den 19. Oktober in Kraft. Dazu wird die Corona-Verordnung um landesweit geltende Maßnahmen ergänzt. <br />\n<br />\nMehr Informationen auf: <br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-ruft-die-dritte-pandemiestufe-aus/?&pk_medium=messenger&pk_campaign=2010117_mes&pk_source=mes&pk_keyword=pandemiestufe\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-ruft-die-dritte-pandemiestufe-aus/?&pk_medium=messenger&pk_campaign=2010117_mes&pk_source=mes&pk_keyword=pandemiestufe</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 233,
+                    "length": 196
+                }
+            ],
+            "views": 27356,
+            "forwards": 112
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 297,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602934325,
+            "message": "Die Verordnung Einreise/Quarantäne wurde geändert. Einen Überblick über die Änderungen finden Sie hier: <a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=201017_mes&pk_source=mes&pk_keyword=aenderung_vo\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=messenger&pk_campaign=201017_mes&pk_source=mes&pk_keyword=aenderung_vo</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 104,
+                    "length": 199
+                }
+            ],
+            "views": 25112,
+            "forwards": 38
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 296,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602866525,
+            "message": "Corona-Bericht für Baden-Württemberg vom 16. Oktober 2020<br />\n<br />\nNeuinfektionen: 1.198 (gesamt: 58.640)<br />\nVerstorbene: 1.927 (+7)<br />\nGenesene: 47.818 (+392)<br />\nAktuell Infizierte: 8.895 (+799)<br />\n7-Tage-R-Wert: 1,28<br />\n7-Tage-Inzidenz: 42,2<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35:<br />\n<br />\n- Landkreis Böblingen (43,8)<br />\n- Landkreis Breisgau-Hochschwarzwald (38,7)<br />\n- Landkreis Calw (46,5)<br />\n- Landkreis Emmendingen (36,7)<br />\n- Landkreis Göppingen (42,2)<br />\n- Main-Tauber-Kreis (36,3)<br />\n- Neckar-Odenwald-Kreis (39,7)<br />\n- Ortenaukreis (36,0)<br />\n- Rems-Murr-Kreis (46,6)<br />\n- Landkreis Reutlingen (47,0)<br />\n- Landkreis Tuttlingen (36,9)<br />\n- Stadtkreis Freiburg im Breisgau (41,1)<br />\n- Stadtkreis Heidelberg (36,5)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50:<br />\n<br />\n<br />\n- Alb-Donau-Kreis (51,2)<br />\n- Landkreis Esslingen (89,3)<br />\n- Landkreis Ludwigsburg (67,7)<br />\n- Landkreis Schwäbisch Hall (54,4)<br />\n- Schwarzwald-Baar-Kreis (61,2)<br />\n- Landkreis Tübingen (66,0)<br />\n- Stadtkreis Baden-Baden (54,4)<br />\n- Stadtkreis Heilbronn (74,3)<br />\n- Stadtkreis Mannheim (58,3)<br />\n- Stadtkreis Stuttgart (79,6)<br />\n- Stadtkreis Ulm (50,5)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201016_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201016_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 1040,
+                    "length": 204
+                }
+            ],
+            "views": 26039,
+            "forwards": 113
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 295,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602838331,
+            "message": "Zum 16. Oktober 2020 hat das Kultusministerium zwei Änderungen in den Corona-Verordnungen notverkündet: <br />\n<br />\n•    Schulbetrieb unter Pandemiebedingungen<br />\n•    Religiöse Veranstaltungen und Veranstaltungen bei Todesfällen <br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=social&pk_campaign=201016_instastory&pk_source=instastory&pk_keyword=corona\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/aktuelle-aenderungen-der-corona-verordnungen/?&pk_medium=social&pk_campaign=201016_instastory&pk_source=instastory&pk_keyword=corona</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 219,
+                    "length": 204
+                }
+            ],
+            "views": 25192,
+            "forwards": 49
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 294,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602783722,
+            "message": "Corona-Bericht für Baden-Württemberg vom 15. Oktober 2020<br />\n<br />\nNeuinfektionen: 967 (gesamt: 57.442)<br />\nVerstorbene: 1.920 (+1)<br />\nGenesene: 47.426 (+358)<br />\nAktuell Infizierte: 8.096  (+608)<br />\n7-Tage-R-Wert: 1,2<br />\n7-Tage-Inzidenz: 38<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35:<br />\n- Landkreis Böblingen (44,3)<br />\n- Landkreis Göppingen (39,1)<br />\n- Neckar-Odenwald-Kreis (36,2)<br />\n- Rems-Murr-Kreis (38,9)<br />\n- Landkreis Reutlingen (44,6)<br />\n- Landkreis Tuttlingen (35,5)<br />\n- Stadtkreis Freiburg im Breisgau (37,2)<br />\n- Stadtkreis Ulm (42,6)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50:<br />\n<br />\n- Landkreis Esslingen (82,4)<br />\n- Landkreis Ludwigsburg (51,2)<br />\n- Landkreis Schwäbisch Hall (51,3)<br />\n- Schwarzwald-Baar-Kreis (56,0)<br />\n- Landkreis Tübingen (63,4)<br />\n- Stadtkreis Baden-Baden (52,6)<br />\n- Stadtkreis Heilbronn (58,5)<br />\n- Stadtkreis Mannheim (56,7)<br />\n- Stadtkreis Stuttgart (82,9)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201015_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201015_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 830,
+                    "length": 204
+                }
+            ],
+            "views": 25313,
+            "forwards": 121
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 293,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602744425,
+            "message": "Heute gibt es eine Regierungsinformation zu den Beschlüssen der Ministerpräsidentenkonferenz zur Eindämmung der SARS-CoV-2-Pandemie vom Mittwoch, den 14. Oktober 2020. <br />\nMinisterpräsident Winfried Kretschmann spricht ab ca. 10:15 Uhr im Livestream aus dem Landtag in Stuttgart. <br />\n <br />\n<a href=\"https://www.landtag-bw.de/home/mediathek/landtag-live.html\" target=\"_blank\" rel=\"nofollow\">https://www.landtag-bw.de/home/mediathek/landtag-live.html</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 280,
+                    "length": 58
+                }
+            ],
+            "views": 24201,
+            "forwards": 38
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 292,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602691625,
+            "message": "Corona-Bericht für Baden-Württemberg vom 14. Oktober 2020<br />\n<br />\nNeuinfektionen: 850 (gesamt: 56.475)<br />\nVerstorbene: 1.919 (+10)<br />\nGenesene: 47.068 (+342)<br />\nAktuell Infizierte: 7.488 (+498)<br />\n7-Tage-R-Wert: 1,27<br />\n7-Tage-Inzidenz: 34,5<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35:- Landkreis Böblingen (42,8)<br />\n- Landkreis Göppingen (35,6)<br />\n- Rems-Murr-Kreis (35,3)<br />\n- Landkreis Reutlingen (39,0)<br />\n- Schwarzwald-Baar-Kreis (45,2)<br />\n- Landkreis Tübingen (46,8)<br />\n- Landkreis Tuttlingen (36,2)<br />\n- Stadtkreis Mannheim (48,6)<br />\n- Stadtkreis Ulm (36,3)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50:- Landkreis Esslingen (80,2)<br />\n- Landkreis Ludwigsburg (51,2)<br />\n- Landkreis Schwäbisch Hall (50,3)<br />\n- Stadtkreis Baden-Baden (52,6)<br />\n- Stadtkreis Heilbronn (51,3)<br />\n- Stadtkreis Stuttgart (71,4)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201014_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201014_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 758,
+                    "length": 204
+                }
+            ],
+            "views": 25162,
+            "forwards": 130
+        },
+        {
+            "_": "message",
+            "flags": 17536,
+            "out": false,
+            "mentioned": false,
+            "media_unread": false,
+            "silent": false,
+            "post": true,
+            "from_scheduled": false,
+            "legacy": false,
+            "edit_hide": false,
+            "pinned": false,
+            "noforwards": false,
+            "id": 291,
+            "peer_id": {
+                "_": "peerChannel",
+                "channel_id": 1416003495
+            },
+            "date": 1602604027,
+            "message": "Corona-Bericht für Baden-Württemberg vom 13. Oktober 2020<br />\n<br />\nNeuinfektionen: 700 (gesamt: 54.625)<br />\nVerstorbene: 1.909 (+6)<br />\nGenesene: 46.726 (+264)<br />\nAktuell Infizierte: 6.990 (+430)<br />\n7-Tage-R-Wert: 1,27<br />\n7-Tage-Inzidenz: 32,3<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >35:<br />\n- Landkreis Ludwigsburg (45,1)<br />\n- Landkreis Reutlingen (36,6)<br />\n- Landkreis Schwäbisch Hall (42,2)<br />\n- Landkreis Tübingen (47,7)<br />\n- Landkreis Tuttlingen (44,8)<br />\n- Stadtkreis Baden-Baden (47,1)<br />\n- Stadtkreis Heilbronn (47,4)<br />\n - Stadtkreis Mannheim (48,3)<br />\n- Stadtkreis Pforzheim (38,1)<br />\n- Stadtkreis Ulm (35,5)<br />\n<br />\nStadt- und Landkreise mit 7-Tage-Inzidenz >50:<br />\n- Landkreis Esslingen (77,6)<br />\n- Stadtkreis Stuttgart (69,7)<br />\n<br />\n<a href=\"https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201013_mes&pk_source=mes&pk_keyword=infektionen\" target=\"_blank\" rel=\"nofollow\">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/infektionen-und-todesfaelle-in-baden-wuerttemberg/?&pk_medium=messenger&pk_campaign=201013_mes&pk_source=mes&pk_keyword=infektionen</a>",
+            "entities": [
+                {
+                    "_": "messageEntityUrl",
+                    "offset": 675,
+                    "length": 204
+                }
+            ],
+            "views": 24962,
+            "forwards": 82
+        }
+    ],
+    "chats": [
+        {
+            "_": "channel",
+            "flags": 8292,
+            "creator": false,
+            "left": true,
+            "broadcast": true,
+            "verified": false,
+            "megagroup": false,
+            "restricted": false,
+            "signatures": false,
+            "min": false,
+            "scam": false,
+            "has_link": false,
+            "has_geo": false,
+            "slowmode_enabled": false,
+            "call_active": false,
+            "call_not_empty": false,
+            "fake": false,
+            "gigagroup": false,
+            "noforwards": false,
+            "join_to_send": false,
+            "join_request": false,
+            "id": 1416003495,
+            "access_hash": -7533219388545198389,
+            "title": "RegierungBW",
+            "username": "regierungbw",
+            "photo": {
+                "_": "chatPhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 5454217443963679633,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIkW2ePKxyyIOxDUUUVhUlKDsmaRSauQ=="
+                },
+                "dc_id": 2
+            },
+            "date": 1585567981
+        }
+    ],
+    "users": [
+        {
+            "_": "user",
+            "flags": 33570859,
+            "self": false,
+            "contact": false,
+            "mutual_contact": false,
+            "deleted": false,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_nochats": false,
+            "verified": false,
+            "restricted": false,
+            "min": false,
+            "bot_inline_geo": false,
+            "support": false,
+            "scam": false,
+            "apply_min_photo": true,
+            "fake": false,
+            "bot_attach_menu": false,
+            "premium": false,
+            "attach_menu_enabled": false,
+            "id": 136817688,
+            "access_hash": 5729957751266450063,
+            "first_name": "Channel",
+            "username": "Channel_Bot",
+            "photo": {
+                "_": "userProfilePhoto",
+                "flags": 2,
+                "has_video": false,
+                "photo_id": 587627495930570665,
+                "stripped_thumb": {
+                    "_": "bytes",
+                    "bytes": "AQgIsfL5X+1nNFFFcDOtHw=="
+                },
+                "dc_id": 1
+            },
+            "bot_info_version": 4
+        }
+    ],
+    "sponsored_messages": []
+}
