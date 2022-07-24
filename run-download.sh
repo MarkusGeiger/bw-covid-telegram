@@ -20,5 +20,7 @@
 for i in {31..90}
 do
   curl -v https://tg.i-c-a.su/json/RegierungBW/$i > pagedata/page-$i.json
-  sleep 5
+  sleep 5 # rate limit 15 requests per minute => 5s timeout
 done
+
+cat pagedata/page-*.json | grep "Corona-Bericht" > RegierungBW-CoronaBerichte-Export.json
